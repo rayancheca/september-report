@@ -1,0 +1,47 @@
+LOCATION_NAME,VENDOR_NAME,INVOICE_ID,INVOICE_DATE,INVOICE_TOTAL,GLCODE,GLCODEDESCRIPTION,GLTOTAL,TAX,FREIGHT_AMOUNT,DISCOUNTS,OTHER_CHARGES,STATUS,DOCUMENT_TYPE
+IT - 530 Seventh Ave,"ACE ENDICO",U87117-00,09/02/2026,1359.99,"Beverage Purchases","Beverage Purchases",353.53,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U87117-00,09/02/2026,1359.99,"Food Purchases","Food Purchases",1006.46,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U90626-00,09/04/2026,2626.74,"Beverage Purchases","Beverage Purchases",531.12,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U90626-00,09/04/2026,2626.74,"Food Purchases","Food Purchases",2095.62,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",XCI-27E1DA35,09/04/2026,363.58,"Food Purchases","Food Purchases",363.58,0.00,0.00,0.00,0.00,Completed,Receipt
+IT - 530 Seventh Ave,"ACE ENDICO",U92760-00,09/05/2026,839.72,"Beverage Purchases","Beverage Purchases",78.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U92760-00,09/05/2026,839.72,"Food Purchases","Food Purchases",761.22,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U95806-00,09/08/2026,2535.94,"Beverage Purchases","Beverage Purchases",544.64,0.00,0.00,0.00,2.40,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U95806-00,09/08/2026,2535.94,"Food Purchases","Food Purchases",1988.90,0.00,0.00,0.00,2.40,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U99735-00,09/10/2026,1403.80,"Beverage Purchases","Beverage Purchases",218.20,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",U99735-00,09/10/2026,1403.80,"Food Purchases","Food Purchases",1185.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V03941-00,09/12/2026,3243.16,"Beverage Purchases","Beverage Purchases",202.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V03941-00,09/12/2026,3243.16,"Food Purchases","Food Purchases",3040.66,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V05989-00,09/14/2026,2258.41,"Beverage Purchases","Beverage Purchases",469.96,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V05989-00,09/14/2026,2258.41,"Food Purchases","Food Purchases",1788.45,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V14404-00,09/18/2026,683.53,"Food Purchases","Food Purchases",683.53,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V16304-00,09/19/2026,443.93,"Food Purchases","Food Purchases",443.93,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V18703-00,09/21/2026,488.49,"Food Purchases","Food Purchases",488.49,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V18731-00,09/21/2026,85.19,"Food Purchases","Food Purchases",85.19,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V24741-00,09/24/2026,367.53,"Food Purchases","Food Purchases",367.53,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V28167-00,09/26/2026,1492.72,"Beverage Purchases","Beverage Purchases",70.21,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V28167-00,09/26/2026,1492.72,"Food Purchases","Food Purchases",1422.51,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V30114-00,09/28/2026,1683.50,"Food Purchases","Food Purchases",1683.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V34680-00,09/30/2026,541.17,"Beverage Purchases","Beverage Purchases",62.80,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"ACE ENDICO",V34680-00,09/30/2026,541.17,"Food Purchases","Food Purchases",478.37,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Bindi North America, Inc",SIP26-45320,09/01/2026,494.60,"Food Purchases","Food Purchases",494.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Bindi North America, Inc",SIP26-47411,09/14/2026,837.74,"Food Purchases","Food Purchases",837.74,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",385908,09/05/2026,456.00,"Food Purchases","Food Purchases",448.00,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",394159,09/10/2026,225.19,"Food Purchases","Food Purchases",217.19,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",399287,09/12/2026,1071.96,"Food Purchases","Food Purchases",1063.96,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",408200,09/17/2026,370.73,"Food Purchases","Food Purchases",362.73,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",410863,09/18/2026,589.99,"Food Purchases","Food Purchases",581.99,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Driscoll Foods",426893,09/26/2026,482.56,"Food Purchases","Food Purchases",474.56,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"I Halper Paper and Supplies Inc",INV253082,09/02/2026,1989.47,"Disposable","Disposable",1846.38,143.09,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"I Halper Paper and Supplies Inc",INV253909,09/08/2026,2810.49,"Disposable","Disposable",2642.80,167.69,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"I Halper Paper and Supplies Inc",INV257634,09/25/2026,553.20,"Disposable","Disposable",508.10,45.10,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"IMPERIAL DADE",43084106,09/09/2026,1093.39,"Disposable","Disposable",1011.48,71.16,10.75,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Ms walker",MSW2609300080,09/11/2026,1660.00,"Beverage Purchases","Beverage Purchases",1660.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",693083,09/04/2026,789.10,"Food Purchases","Food Purchases",781.60,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",695968,09/12/2026,1333.90,"Food Purchases","Food Purchases",1326.40,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",697778,09/17/2026,921.58,"Food Purchases","Food Purchases",914.08,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",699021,09/21/2026,499.22,"Food Purchases","Food Purchases",491.72,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",700963,09/25/2026,766.50,"Food Purchases","Food Purchases",759.00,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 530 Seventh Ave,"SOGNO TOSCANO",701687,09/28/2026,498.90,"Food Purchases","Food Purchases",491.40,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Southern Glazer",2637795,09/10/2026,1478.90,"Beverage Purchases","Beverage Purchases",1466.40,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 530 Seventh Ave,"Southern Glazer",2637795,09/10/2026,1478.90,"Uniforms Inventory","Uniforms Inventory",12.50,0.00,0.00,0.00,0.00,Completed,Invoice

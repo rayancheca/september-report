@@ -1,0 +1,63 @@
+LOCATION_NAME,VENDOR_NAME,INVOICE_ID,INVOICE_DATE,INVOICE_TOTAL,GLCODE,GLCODEDESCRIPTION,GLTOTAL,TAX,FREIGHT_AMOUNT,DISCOUNTS,OTHER_CHARGES,STATUS,DOCUMENT_TYPE
+IT - 390 Fifth Ave,"ACE ENDICO",U86865-00,09/02/2026,3816.84,"Beverage Purchases","Beverage Purchases",243.99,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U86865-00,09/02/2026,3816.84,"Disposable","Disposable",48.68,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U86865-00,09/02/2026,3816.84,"Food Purchases","Food Purchases",3519.85,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U89078-00,09/02/2026,363.58,"Food Purchases","Food Purchases",363.58,0.00,0.00,0.00,0.00,Completed,Receipt
+IT - 390 Fifth Ave,"ACE ENDICO",U91500-00,09/04/2026,4149.50,"Beverage Purchases","Beverage Purchases",455.84,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U91500-00,09/04/2026,4149.50,"Food Purchases","Food Purchases",3693.66,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U96343-00,09/08/2026,2938.99,"Beverage Purchases","Beverage Purchases",243.41,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U96343-00,09/08/2026,2938.99,"Food Purchases","Food Purchases",2695.58,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",U98517-00,09/10/2026,200.08,"Food Purchases","Food Purchases",200.08,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V00359-00,09/10/2026,1222.44,"Food Purchases","Food Purchases",1222.44,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V02682-00,09/11/2026,3088.04,"Beverage Purchases","Beverage Purchases",255.62,2.16,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V02682-00,09/11/2026,3088.04,"Disposable","Disposable",24.34,2.16,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V02682-00,09/11/2026,3088.04,"Food Purchases","Food Purchases",2805.92,2.16,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V08630-00,09/15/2026,3053.76,"Beverage Purchases","Beverage Purchases",256.83,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V08630-00,09/15/2026,3053.76,"Disposable","Disposable",48.68,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V08630-00,09/15/2026,3053.76,"Food Purchases","Food Purchases",2743.93,4.32,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V12936-00,09/17/2026,967.39,"Beverage Purchases","Beverage Purchases",191.79,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V12936-00,09/17/2026,967.39,"Food Purchases","Food Purchases",775.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V14729-00,09/18/2026,3977.23,"Beverage Purchases","Beverage Purchases",490.46,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V14729-00,09/18/2026,3977.23,"Food Purchases","Food Purchases",3486.77,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V20671-00,09/22/2026,3371.55,"Beverage Purchases","Beverage Purchases",414.88,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V20671-00,09/22/2026,3371.55,"Food Purchases","Food Purchases",2956.67,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V22430-00,09/23/2026,345.14,"Food Purchases","Food Purchases",345.14,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V23810-00,09/24/2026,1721.47,"Beverage Purchases","Beverage Purchases",128.54,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V23810-00,09/24/2026,1721.47,"Food Purchases","Food Purchases",1592.93,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V21936-00,09/25/2026,844.10,"Food Purchases","Food Purchases",844.10,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V30047-00,09/28/2026,2121.45,"Beverage Purchases","Beverage Purchases",145.97,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"ACE ENDICO",V30047-00,09/28/2026,2121.45,"Food Purchases","Food Purchases",1975.48,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Bindi North America, Inc",SIP26-46994,09/11/2026,778.28,"Food Purchases","Food Purchases",778.28,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Bindi North America, Inc",SIP26-49525,09/24/2026,771.78,"Food Purchases","Food Purchases",771.78,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Bindi North America, Inc",SIP26-50167,09/28/2026,586.08,"Unassigned","Unassigned",586.08,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",387919,09/08/2026,1208.64,"Food Purchases","Food Purchases",1200.64,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",396444,09/11/2026,1554.62,"Food Purchases","Food Purchases",1546.62,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",402481,09/15/2026,796.90,"Food Purchases","Food Purchases",788.90,0.00,0.00,0.00,8.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",408162,09/17/2026,374.00,"Food Purchases","Food Purchases",366.00,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",412569,09/18/2026,742.77,"Food Purchases","Food Purchases",734.77,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",416164,09/22/2026,768.98,"Food Purchases","Food Purchases",768.98,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",421648,09/24/2026,390.65,"Food Purchases","Food Purchases",382.65,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",426922,09/26/2026,906.09,"Food Purchases","Food Purchases",898.09,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"Driscoll Foods",433090,09/30/2026,653.89,"Food Purchases","Food Purchases",645.89,0.00,8.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV252935,09/01/2026,1511.14,"Disposable","Disposable",1411.00,100.14,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV253656,09/04/2026,729.94,"Disposable","Disposable",680.20,49.74,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV254376,09/09/2026,554.90,"Disposable","Disposable",534.85,20.05,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",RMA23805,09/10/2026,179.90,"Disposable","Disposable",0.0,0.00,0.00,0.00,0.00,Completed,Credit
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV254993,09/11/2026,474.54,"Disposable","Disposable",436.40,38.14,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV255430,09/15/2026,863.29,"Disposable","Disposable",812.45,50.84,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV256326,09/18/2026,418.51,"Disposable","Disposable",384.40,34.11,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV256331,09/18/2026,705.12,"Disposable","Disposable",669.55,35.57,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"I Halper Paper and Supplies Inc",INV257391,09/24/2026,1271.34,"Disposable","Disposable",1200.15,71.19,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"MANHATTAN BEER DIST LLC",19706912,09/12/2026,186.75,"Unassigned","Unassigned",186.75,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"MANHATTAN BEER DIST LLC,",19757299,09/23/2026,474.60,"Beverage Purchases","Beverage Purchases",504.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"MANHATTAN BEER DIST LLC,",19757299,09/23/2026,474.60,"Discount","Agreed rebates",-150.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"MANHATTAN BEER DIST LLC,",19757299,09/23/2026,474.60,"Uniforms Inventory","Uniforms Inventory",120.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",693102A,09/04/2026,1821.88,"Food Purchases","Food Purchases",1814.38,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",695542A,09/11/2026,1068.80,"Food Purchases","Food Purchases",1061.30,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",696757B,09/15/2026,1489.35,"Food Purchases","Food Purchases",1122.97,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",696757B,09/15/2026,1489.35,"Unassigned","Unassigned",358.88,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",700961A,09/25/2026,1824.59,"Food Purchases","Food Purchases",1817.09,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 390 Fifth Ave,"SOGNO TOSCANO",702692,09/30/2026,658.68,"Food Purchases","Food Purchases",651.18,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"TRUFFLE LADY LLC",2235,09/08/2026,174.00,"Food Purchases","Food Purchases",174.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"TRUFFLE LADY LLC",2234,09/11/2026,562.00,"Food Purchases","Food Purchases",522.00,0.00,40.00,0.00,0.00,Completed,Invoice
+IT - 390 Fifth Ave,"TRUFFLE LADY LLC",2241,09/28/2026,2760.00,"Food Purchases","Food Purchases",2610.00,0.00,150.00,0.00,0.00,Completed,Invoice

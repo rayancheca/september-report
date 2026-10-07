@@ -1,0 +1,5 @@
+﻿Piattaforma;ID piattaforma;publisherName;publisherIcon;Valutazione media;Ultimi voti visibili;Volume delle recensioni;volume di recensioni a 5 stelle;Volume di recensioni a 4 stelle;Volume di recensioni a 3 stelle;Volume di recensioni a 2 stelle;Volume di recensioni a 1 stella;Volume di recensioni positive;Volume di recensioni neutrali;Volume delle recensioni negative;Volume di revisione responsabile;Recensioni con volume di risposta;Recensioni senza volume di risposta;Tasso di risposta;Tempo di risposta
+Trip Advisor;"1";Trip Advisor;https://app.myli.io/img/platform/trip-advisor_light.png;"5";"4,2";"1";"1";"0";"0";"0";"0";"1";"0";"0";"1";"0";"1";"0";"0"
+Google;"7";Google;https://app.myli.io/img/platform/google_light.png;"4,58";"4,4";"40";"32";"4";"1";"1";"2";"36";"1";"3";"0";"40";"0";"100";"30,12"
+Yelp;"11";Yelp;https://app.myli.io/img/platform/yelp_light.png;"2,75";"3,3";"4";"1";"1";"0";"0";"2";"2";"0";"2";"4";"0";"4";"0";"0"
+Uber Eats;"87";Uber Eats;https://app.myli.io/img/platform/ubereats_light.png;N/A;"4,6";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0";"0"

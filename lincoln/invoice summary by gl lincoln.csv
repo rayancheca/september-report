@@ -1,0 +1,64 @@
+LOCATION_NAME,VENDOR_NAME,INVOICE_ID,INVOICE_DATE,INVOICE_TOTAL,GLCODE,GLCODEDESCRIPTION,GLTOTAL,TAX,FREIGHT_AMOUNT,DISCOUNTS,OTHER_CHARGES,STATUS,DOCUMENT_TYPE
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",300887,09/03/2026,98.80,"Food Purchases","Food Purchases",98.80,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",301269,09/08/2026,423.60,"Food Purchases","Food Purchases",423.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",301473,09/10/2026,278.35,"Food Purchases","Food Purchases",278.35,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",301829,09/14/2026,321.90,"Food Purchases","Food Purchases",321.90,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",302207,09/18/2026,170.85,"Food Purchases","Food Purchases",170.85,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",302460,09/21/2026,265.65,"Food Purchases","Food Purchases",265.65,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",302880,09/25/2026,474.15,"Food Purchases","Food Purchases",474.15,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Excellent Fruit & Produce",303139,09/28/2026,203.30,"Food Purchases","Food Purchases",203.30,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Gold Coast Beverage  LLC",100941302,09/03/2026,874.90,"Beverage Purchases","Beverage Purchases",699.90,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Gold Coast Beverage  LLC",100941302,09/03/2026,874.90,"Uniforms Inventory","Uniforms Inventory",175.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Gold Coast Beverage  LLC",100943495,09/08/2026,230.64,"Beverage Purchases","Beverage Purchases",230.64,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Gold Coast Beverage  LLC",100950160,09/17/2026,728.90,"Beverage Purchases","Beverage Purchases",588.90,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"Gold Coast Beverage  LLC",100950160,09/17/2026,728.90,"Uniforms Inventory","Uniforms Inventory",140.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"I Halper Paper and Supplies Inc",INV253839,09/07/2026,921.05,"Disposable","Disposable",884.75,36.30,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"I Halper Paper and Supplies Inc",INV253840,09/07/2026,632.08,"Disposable","Disposable",604.45,27.63,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"I Halper Paper and Supplies Inc",INV258078,09/28/2026,235.18,"Disposable","Disposable",222.40,12.78,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"I Halper Paper and Supplies Inc",INV258079,09/28/2026,687.75,"Disposable","Disposable",653.20,34.55,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"La Provence Miami - BILLPAY",234023,09/28/2026,62.50,"Food Purchases","Food Purchases",62.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"MOZZARITA INC",100973,09/03/2026,144.00,"Food Purchases","Food Purchases",144.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"MOZZARITA INC",101027,09/08/2026,96.00,"Food Purchases","Food Purchases",96.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"MOZZARITA INC",101141,09/16/2026,144.00,"Food Purchases","Food Purchases",144.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"MOZZARITA INC",101234,09/22/2026,144.00,"Food Purchases","Food Purchases",144.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"MOZZARITA INC",101290,09/25/2026,192.00,"Food Purchases","Food Purchases",192.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"PRIME LINE DISTRIBUTORS",1649244,09/08/2026,242.00,"Beverage Purchases","Beverage Purchases",27.50,0.00,8.50,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"PRIME LINE DISTRIBUTORS",1649244,09/08/2026,242.00,"Food Purchases","Food Purchases",206.00,0.00,8.50,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"PRIME LINE DISTRIBUTORS",1650892,09/15/2026,332.00,"Food Purchases","Food Purchases",323.50,0.00,8.50,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"PRIME LINE DISTRIBUTORS",1652507,09/22/2026,214.50,"Food Purchases","Food Purchases",206.00,0.00,0.00,0.00,8.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",693977A,09/08/2026,353.97,"Food Purchases","Food Purchases",346.47,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",695049,09/10/2026,213.18,"Food Purchases","Food Purchases",205.68,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",696525,09/14/2026,152.70,"Food Purchases","Food Purchases",145.20,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",698245,09/18/2026,114.74,"Food Purchases","Food Purchases",107.24,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",700026,09/23/2026,43.50,"Food Purchases","Food Purchases",36.00,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",700450,09/24/2026,85.50,"Food Purchases","Food Purchases",78.00,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",700994,09/25/2026,191.64,"Food Purchases","Food Purchases",184.14,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"SOGNO TOSCANO",702235,09/29/2026,150.84,"Food Purchases","Food Purchases",143.34,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1014 Lincoln Rd,"Southern Glazer",1627339,09/11/2026,801.85,"Beverage Purchases","Beverage Purchases",801.85,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"TROPICAL FAIR PRICE CORP.",100494,09/05/2026,176.00,"Food Purchases","Food Purchases",176.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"TROPICAL FAIR PRICE CORP.",100650,09/12/2026,220.00,"Food Purchases","Food Purchases",220.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"TROPICAL FAIR PRICE CORP.",100843,09/18/2026,110.00,"Food Purchases","Food Purchases",110.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"TROPICAL FAIR PRICE CORP.",101012,09/25/2026,220.00,"Food Purchases","Food Purchases",220.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67883,09/02/2026,1282.23,"Beverage Purchases","Beverage Purchases",159.78,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67883,09/02/2026,1282.23,"Food Purchases","Food Purchases",1122.45,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67923,09/03/2026,644.45,"Beverage Purchases","Beverage Purchases",30.24,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67923,09/03/2026,644.45,"Food Purchases","Food Purchases",614.21,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67949,09/05/2026,1774.20,"Beverage Purchases","Beverage Purchases",1345.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67949,09/05/2026,1774.20,"Discount","Agreed rebates",-8.80,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67949,09/05/2026,1774.20,"Food Purchases","Food Purchases",438.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67976,09/08/2026,1707.57,"Beverage Purchases","Beverage Purchases",70.56,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",67976,09/08/2026,1707.57,"Food Purchases","Food Purchases",1637.01,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68006,09/10/2026,484.35,"Food Purchases","Food Purchases",484.35,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68054,09/14/2026,1905.84,"Beverage Purchases","Beverage Purchases",154.80,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68054,09/14/2026,1905.84,"Food Purchases","Food Purchases",1751.04,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68127,09/18/2026,1416.79,"Beverage Purchases","Beverage Purchases",517.86,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68127,09/18/2026,1416.79,"Food Purchases","Food Purchases",898.93,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68143,09/19/2026,87.80,"Food Purchases","Food Purchases",87.80,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68206,09/25/2026,1288.89,"Beverage Purchases","Beverage Purchases",187.62,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68206,09/25/2026,1288.89,"Food Purchases","Food Purchases",961.27,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68206,09/25/2026,1288.89,"Unassigned","Unassigned",140.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68224,09/26/2026,324.45,"Food Purchases","Food Purchases",324.45,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68250,09/28/2026,715.30,"Beverage Purchases","Beverage Purchases",20.16,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68250,09/28/2026,715.30,"Discount","Agreed rebates",-360.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68250,09/28/2026,715.30,"Food Purchases","Food Purchases",695.14,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1014 Lincoln Rd,"VIANDER INC",68250,09/28/2026,715.30,"Unassigned","Unassigned",360.00,0.00,0.00,0.00,0.00,Completed,Invoice

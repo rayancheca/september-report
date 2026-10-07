@@ -1,0 +1,67 @@
+LOCATION_NAME,VENDOR_NAME,INVOICE_ID,INVOICE_DATE,INVOICE_TOTAL,GLCODE,GLCODEDESCRIPTION,GLTOTAL,TAX,FREIGHT_AMOUNT,DISCOUNTS,OTHER_CHARGES,STATUS,DOCUMENT_TYPE
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",301085,09/05/2026,377.35,"Food Purchases","Food Purchases",377.35,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",301272,09/08/2026,469.85,"Food Purchases","Food Purchases",469.85,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",301738,09/13/2026,175.70,"Food Purchases","Food Purchases",175.70,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",301833,09/14/2026,323.95,"Food Purchases","Food Purchases",323.95,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302025,09/16/2026,28.70,"Food Purchases","Food Purchases",28.70,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302026,09/16/2026,118.70,"Food Purchases","Food Purchases",118.70,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302108,09/17/2026,176.70,"Food Purchases","Food Purchases",176.70,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302233,09/18/2026,308.45,"Food Purchases","Food Purchases",308.45,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302394,09/20/2026,222.50,"Food Purchases","Food Purchases",222.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302723,09/23/2026,366.00,"Food Purchases","Food Purchases",336.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302723,09/23/2026,366.00,"Uniforms Inventory","Uniforms Inventory",30.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",302990,09/26/2026,239.50,"Food Purchases","Food Purchases",239.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",303142,09/28/2026,67.30,"Food Purchases","Food Purchases",0.0,0.00,0.00,0.00,0.00,Completed,Credit
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",303142,09/28/2026,571.20,"Food Purchases","Food Purchases",571.20,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Excellent Fruit & Produce",303350,09/30/2026,256.55,"Food Purchases","Food Purchases",256.55,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Gold Coast Beverage  LLC",100954803,09/24/2026,553.90,"Beverage Purchases","Beverage Purchases",413.90,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Gold Coast Beverage  LLC",100954804,09/24/2026,187.90,"Beverage Purchases","Beverage Purchases",187.90,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Gold Coast Beverage  LLC",100954803,09/24/2026,553.90,"Uniforms Inventory","Uniforms Inventory",140.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"I Halper Paper and Supplies Inc",INV253858,09/07/2026,1824.83,"Disposable","Disposable",1769.70,55.13,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"I Halper Paper and Supplies Inc",INV256725,09/21/2026,1507.50,"Disposable","Disposable",1436.85,70.65,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"I Halper Paper and Supplies Inc",INV257853,09/27/2026,906.10,"Disposable","Disposable",878.90,27.20,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",231189,09/03/2026,31.00,"Food Purchases","Food Purchases",31.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",231870,09/09/2026,16.50,"Food Purchases","Food Purchases",16.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",232057,09/11/2026,39.75,"Food Purchases","Food Purchases",39.75,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",232366,09/14/2026,52.50,"Food Purchases","Food Purchases",52.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",233196,09/21/2026,52.50,"Food Purchases","Food Purchases",52.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",233282,09/22/2026,15.00,"Food Purchases","Food Purchases",15.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",233539,09/24/2026,15.00,"Food Purchases","Food Purchases",15.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",233541,09/24/2026,12.50,"Food Purchases","Food Purchases",12.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"La Provence Miami - BILLPAY",233788,09/26/2026,25.00,"Food Purchases","Food Purchases",25.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"MOZZARITA INC",101010,09/07/2026,288.00,"Food Purchases","Food Purchases",288.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"MOZZARITA INC",101197,09/19/2026,240.00,"Food Purchases","Food Purchases",240.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"PRIME LINE DISTRIBUTORS",1648669,09/04/2026,913.50,"Food Purchases","Food Purchases",905.00,8.50,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"PRIME LINE DISTRIBUTORS",1650566,09/14/2026,688.50,"Food Purchases","Food Purchases",680.00,0.00,8.50,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"PRIME LINE DISTRIBUTORS",1653047,09/24/2026,690.50,"Beverage Purchases","Beverage Purchases",101.00,0.00,0.00,0.00,8.50,Completed,Invoice
+IT - 1656 Collins Ave,"PRIME LINE DISTRIBUTORS",1653047,09/24/2026,690.50,"Food Purchases","Food Purchases",581.00,0.00,0.00,0.00,8.50,Completed,Invoice
+IT - 1656 Collins Ave,"SOGNO TOSCANO",693171,09/04/2026,358.30,"Food Purchases","Food Purchases",350.80,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1656 Collins Ave,"SOGNO TOSCANO",697711,09/17/2026,537.70,"Food Purchases","Food Purchases",530.20,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"SOGNO TOSCANO",700023,09/23/2026,43.50,"Food Purchases","Food Purchases",36.00,0.00,0.00,0.00,7.50,Completed,Invoice
+IT - 1656 Collins Ave,"SOGNO TOSCANO",700449,09/24/2026,163.50,"Food Purchases","Food Purchases",156.00,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"SOGNO TOSCANO",701518,09/26/2026,311.10,"Food Purchases","Food Purchases",303.60,0.00,7.50,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"Southern Glazer",1607316,09/04/2026,912.78,"Beverage Purchases","Beverage Purchases",912.78,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"TROPICAL FAIR PRICE CORP.",100138,09/07/2026,990.00,"Food Purchases","Food Purchases",990.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"TROPICAL FAIR PRICE CORP.",100831,09/18/2026,660.00,"Food Purchases","Food Purchases",660.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"TROPICAL FAIR PRICE CORP.",100738,09/26/2026,440.00,"Food Purchases","Food Purchases",440.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"TROPICAL FAIR PRICE CORP.",100739,09/28/2026,440.00,"Food Purchases","Food Purchases",440.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67931,09/04/2026,1724.88,"Beverage Purchases","Beverage Purchases",538.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67931,09/04/2026,1724.88,"Food Purchases","Food Purchases",1186.88,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67950,09/05/2026,252.00,"Beverage Purchases","Beverage Purchases",252.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67964,09/07/2026,3056.84,"Beverage Purchases","Beverage Purchases",219.08,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67964,09/07/2026,3056.84,"Food Purchases","Food Purchases",2837.76,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67975,09/08/2026,1591.46,"Beverage Purchases","Beverage Purchases",267.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",67975,09/08/2026,1591.46,"Food Purchases","Food Purchases",1324.46,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68055,09/14/2026,3399.47,"Beverage Purchases","Beverage Purchases",624.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68055,09/14/2026,3399.47,"Food Purchases","Food Purchases",2775.47,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68142,09/19/2026,551.50,"Beverage Purchases","Beverage Purchases",238.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68142,09/19/2026,551.50,"Food Purchases","Food Purchases",313.50,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68155,09/21/2026,5249.14,"Beverage Purchases","Beverage Purchases",499.30,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68155,09/21/2026,5249.14,"Food Purchases","Food Purchases",4660.84,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68155,09/21/2026,5249.14,"Unassigned","Unassigned",89.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68223,09/26/2026,317.55,"Food Purchases","Food Purchases",317.55,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68249,09/28/2026,2660.46,"Beverage Purchases","Beverage Purchases",459.60,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68249,09/28/2026,2660.46,"Discount","Agreed rebates",-540.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68249,09/28/2026,2660.46,"Food Purchases","Food Purchases",2200.86,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68249,09/28/2026,2660.46,"Unassigned","Unassigned",540.00,0.00,0.00,0.00,0.00,Completed,Invoice
+IT - 1656 Collins Ave,"VIANDER INC",68283,09/30/2026,367.64,"Food Purchases","Food Purchases",367.64,0.00,0.00,0.00,0.00,Completed,Invoice
