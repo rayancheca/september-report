@@ -1,0 +1,11 @@
+DoorDash Merchant Portal - Ratings and reviews (transcribed from screenshot)
+Store: IT Italian Trattoria (5th Ave), 390 5th Ave, New York, NY 10018
+DoorDash store_id: 38087931
+Period: 01/09/2026 - 30/09/2026
+
+Ratings during this period
+- "You didn't receive any ratings for the selected store(s) and timeframe."
+- Loved / Liked / Didn't like: NA (not available due to 0 ratings)
+- Number of ratings: 0
+
+Lifetime rating (shown to customers): 4.42 / 5 stars

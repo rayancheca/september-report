@@ -1,0 +1,113 @@
+--- Page 1 ---
+IT Italian Trattoria | Lincoln Road | Settembre 2026
+1
+IT ITALIAN TRATTORIA
+Lincoln Road
+Reviews Recap
+Settembre 2026 | Miami Beach
+Cibo, atmosfera e cordialità dello staff ricevono numerosi apprezzamenti. Le principali priorità operative
+riguardano le segnalazioni su igiene dei bagni, temperatura della lasagna, gestione dei reclami e completezza
+degli ordini delivery.
+Google
+Uber Eats
+Yelp
+Dashboard
+4.6
+4.2
+3.7
+4.5
+Dati e perimetro dell’analisi
+Il testo fornito contiene 54 recensioni datate 1–30 settembre 2026: 35 Google e 19 Uber Eats, coerenti con
+il totale 54 mostrato nel dashboard. Risultano inoltre 7 da processare e 30 elaborate da Myli.
+I rating riportati sono quelli complessivi del dashboard, non medie del mese. Le stelle delle singole recensioni non sono visibili nel testo:
+non è possibile calcolare una media mensile o una ripartizione positiva/negativa per stelle. I commenti senza testo non vengono
+classificati in base alle risposte automatiche.
+Cosa sta funzionando
+Accoglienza e personale. Manuel viene citato positivamente da Mélodie Salva, Valeria Amendolara e Jon 7.
+Nina elogia Agostina e Dr. Marcelo Artana riconosce l’attenzione di Nazarena. Matt, Charly e Nueve Music
+descrivono servizio cordiale o eccellente. Kevin apprezza l’invito ad assaggiare la pizza e l’impegno dello staff
+nonostante la barriera linguistica.
+Cibo e rapporto qualità/prezzo. Pizza, Bolognese e Amatriciana ricevono complimenti specifici. Mariana,
+Charo e Clara apprezzano il valore dell’esperienza; Dan Dan sottolinea la possibilità di mangiare rapidamente
+cibo di qualità.
+Atmosfera e live DJ. Sami Bitar apprezza cibo, succhi freschi, accoglienza e musica dal vivo. Zoé, Andrea e
+altri clienti elogiano l’ambiente. Anche Gabriella, pur in una recensione critica, apprezza il DJ.
+Opzioni gluten-free. Clara Gotzens e M B citano positivamente pizza e pasta senza glutine. Il feedback
+segnala interesse per queste opzioni; non certifica di per sé l’idoneità per persone celiache. Le informazioni al
+cliente devono riflettere i protocolli effettivi della cucina.
+
+
+--- Page 2 ---
+IT Italian Trattoria | Lincoln Road | Settembre 2026
+2
+Criticità del servizio in sala
+1. Bagni e pratiche igieniche | Priorità immediata
+Ahmet Karakuza segnala assenza di acqua nel bagno donne, mancanza di sapone nel bagno uomini e
+comportamenti del personale che ritiene incompatibili con il lavaggio delle mani. Descrive inoltre una risposta
+difensiva alla cassa. Gabriella Monroy riporta, in una recensione distinta, un dispenser del sapone non
+funzionante e una segnalazione ignorata.
+Valutazione: due recensioni indipendenti menzionano la disponibilità del sapone. Le segnalazioni non sono
+verificate, ma la ricorrenza richiede un controllo operativo immediato.
+Azione: verificare acqua, dispenser e rifornimento di sapone; assegnare controlli durante i turni e un
+responsabile del ripristino. Richiamare le procedure di igiene delle mani e la gestione tempestiva delle
+segnalazioni dei clienti.
+2. Lasagna fredda e gestione del reclamo
+Gabriella apprezza il sapore della lasagna, ma la descrive fredda al centro anche dopo un primo tentativo di
+riscaldamento. Segnala mancanza di posate, atteggiamento poco professionale della cucina visibile e risposte
+giustificative del personale. Riferisce di aver restituito il piatto e di averlo comunque trovato sul conto. Il
+dessert offerto e le scuse non hanno recuperato l’esperienza.
+Azione: verificare il procedimento di riscaldamento e la temperatura al centro prima del servizio. Controllare
+posate e tavolo; definire chi gestisce un piatto restituito, la sostituzione e l’eventuale correzione del conto. In
+cucina a vista, mantenere un comportamento professionale anche durante i reclami.
+3. Costanza dell’accoglienza
+Maria Irene Benedet Spilere riferisce un trattamento molto negativo senza ulteriori dettagli. Adleigh Brisebois
+apprezza l’atmosfera ma critica cibo, servizio e bevande. Questi casi contrastano con i numerosi elogi allo
+staff e indicano la necessità di verificare la coerenza dell’esperienza tra turni.
+Azione: confronto con il manager sui casi e sui turni interessati; reminder su ascolto, presa in carico del
+problema e follow-up al tavolo. Riconoscere internamente Manuel, Agostina e Nazarena per i complimenti
+ricevuti.
+4. Feedback sul prodotto
+Esma giudica il cibo gustoso ma troppo unto. Adleigh critica anche le bevande. Sono feedback da verificare
+con controlli di esecuzione, dosaggio e presentazione; da soli non giustificano modifiche generalizzate alle
+ricette.
+
+
+--- Page 3 ---
+IT Italian Trattoria | Lincoln Road | Settembre 2026
+3
+Delivery e piano operativo
+Uber Eats | Punti di forza
+I feedback disponibili apprezzano freschezza, temperatura, porzioni e presentazione di Slice Truffle Pala,
+Single Espresso, Cotto Club e Rigatoni alla Siciliana. Mario R compare in 8 delle 19 recensioni Uber Eats:
+segnala fidelizzazione, ma i suoi feedback ripetuti non rappresentano otto clienti distinti.
+Uber Eats | Problemi da verificare
+Ordine errato o incompleto. Oscar C dice di aver ricevuto spaghetti con olio invece dell’Alfredo e di non aver
+ricevuto il pollo aggiunto. Il record di Adi M mostra un articolo mancante con una detrazione dal payout;
+l’importo è visualizzato in euro nel testo e va riconciliato con lo statement prima di riportarlo come costo in
+dollari.
+Gusto e valore. Younes E seleziona “Non molto gustoso” per un ordine con tiramisù al pistacchio e Rigatoni
+alla Siciliana. Il testo non identifica chiaramente quale prodotto abbia causato il giudizio. Oscar seleziona
+anche “Non vale il prezzo”, collegato al problema dell’ordine.
+Tempi di consegna. Nei record di Giuseppe Z e Zlata M compaiono 90 e 56 minuti; Younes E mostra 50
+minuti. Sono tempi complessivi riportati dalla piattaforma, non prova di un ritardo imputabile alla cucina. Le
+recensioni senza commento non permettono di dedurre insoddisfazione.
+Azione: controllo finale di piatti, modifiche, extra e quantità prima della chiusura del packaging; verifica delle
+detrazioni; confronto tra tempi di preparazione e ritiro del driver; controlli su temperatura e qualità alla
+consegna.
+Risposte alle recensioni
+Ahmet, Gabriella, Maria Irene ed Esma risultano con risposta da inviare nel testo: verificare lo stato attuale e
+rispondere dopo aver raccolto i fatti dal manager. Diverse risposte Uber Eats già pubblicate sono molto brevi,
+ad esempio “pp” e “let’s go”: usare in futuro testi personalizzati e coerenti con il brand. Il pannello indica che le
+risposte Uber Eats pubblicate non sono modificabili e limita le risposte alle recensioni entro 14 giorni.
+Priorità per il team
+Immediate: controllo bagni e sapone; verifica della lasagna e delle procedure di riscaldamento; confronto sui
+reclami più dettagliati; controllo degli ordini delivery e degli extra.
+Nel prossimo monitoraggio: verificare nuove segnalazioni su igiene, piatti freddi e articoli mancanti.
+Mantenere qualità del prodotto, atmosfera e accoglienza; condividere gli elogi nominativi con il team.
+Testo per il Weekly / Monthly Report
+Lincoln Road shows a 4.6 overall Google rating. The September extract includes 54 reviews: 35 Google and 19 Uber Eats. Food,
+atmosphere and friendly staff are recurring strengths. Restroom hygiene reports, cold lasagna, complaint handling and delivery order
+completeness require priority follow-up. Repeated Uber Eats feedback from one customer should be considered when interpreting the
+sample.
+Fonte: testo del dashboard Lincoln Road fornito dall’utente. Analisi dei commenti e dei record disponibili; segnalazioni dei clienti non
+verificate indipendentemente.

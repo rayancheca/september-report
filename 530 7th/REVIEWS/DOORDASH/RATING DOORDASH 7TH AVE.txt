@@ -1,0 +1,12 @@
+DoorDash Merchant Portal - Ratings and reviews (transcribed from screenshot)
+Store: IT Italian Trattoria (7th Ave), 530 7th Ave, New York, NY 10018
+DoorDash store_id: 24838064
+Period: 01/09/2026 - 30/09/2026
+
+Ratings during this period
+- Loved: 100% (up 100% vs. previous 29 days)
+- Liked: 0%
+- Didn't like: 0%
+- Number of ratings: 1 (down 1 vs. previous 29 days)
+
+Lifetime rating (shown to customers): 4.24 / 5 stars

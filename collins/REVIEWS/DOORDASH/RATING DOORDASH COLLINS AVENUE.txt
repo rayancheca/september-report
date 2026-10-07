@@ -1,0 +1,12 @@
+DoorDash Merchant Portal - Ratings and reviews (transcribed from screenshot)
+Store: IT Italian Trattoria, 1656 Collins Ave, Miami Beach, FL
+DoorDash store_id: 1056334
+Period: 01/09/2026 - 30/09/2026
+
+Ratings during this period
+- Loved: 40% (down 26.67% vs. previous 29 days)
+- Liked: 60%
+- Didn't like: 0%
+- Number of ratings: 5 (up 2 vs. previous 29 days)
+
+Lifetime rating (shown to customers): 4.25 / 5 stars

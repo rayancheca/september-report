@@ -1,0 +1,112 @@
+--- Page 1 ---
+IT Italian Trattoria | 530 7th Avenue | Settembre 2026
+1
+IT ITALIAN TRATTORIA
+530 7th Avenue
+Reviews Recap
+Settembre 2026 | Times Square, New York
+L’accoglienza è il punto di forza più evidente, con numerosi complimenti nominativi a Oliver e Camila. Pizza,
+pasta e dolci ricevono apprezzamenti. Le priorità operative sono la coerenza dei prezzi tra kiosk e cassa, le
+condizioni dei bagni, la temperatura e il coordinamento dell’uscita dei piatti.
+Google
+Uber Eats
+Yelp
+TripAdvisor
+4.5
+4.6
+3.8
+4.2
+Dati e perimetro dell’analisi
+Il dashboard mostra 64 recensioni, 8 da processare e 42 elaborate da Myli. Il testo contiene 64 record
+datati 1–30 settembre: 54 Google, 9 Uber Eats e 1 TripAdvisor. Due record Google sono contrassegnati
+come cancellati; uno di questi è di Ray Testa, presente anche in un altro record alla stessa data e ora.
+Il totale 64 va letto come numero di record dell’estratto, non come 64 recensioni attive e uniche. Escludendo i due record cancellati
+restano 62 record non contrassegnati come eliminati. I rating sono complessivi, non medie del mese. Le stelle individuali non sono visibili:
+non è possibile calcolare media mensile o ripartizione positiva/negativa per stelle.
+Cosa sta funzionando
+Oliver: accoglienza e attenzione. Numerosi clienti lo citano per gentilezza, velocità, disponibilità e capacità
+di farli sentire benvenuti. M Lance elogia anche Rigatoni Vodka e Margherita di Burrata; Jessica Urzia
+apprezza ospitalità, cibo e puntualità. Edmar, David Ng, Gatik Jog e altri confermano il valore del servizio. Un
+commento usa la variante “Olivier”.
+Camila: prima impressione e ritorno dei clienti. Raffy, Rodrigo, Tomas, Camila Alonso e Olesea
+descrivono un’accoglienza calorosa e attenta. Swampy Bakes e Drishti usano la variante “Camilla”. Le varianti
+dei nomi vanno verificate internamente prima di attribuire tutti i feedback alla stessa persona.
+Prodotto e vetrina. Ilaria apprezza la pizza; Costin la pasta al dente; Maria Neiva e Mikellodeon la
+preparazione al momento. Alamina elogia pizza al tartufo e tiramisù. Swampy Bakes cita Alfredo, dolci e
+vetrina: l’esposizione dei prodotti contribuisce a invogliare i passanti.
+Posizione e valore. Luca S su TripAdvisor elogia pizza, personale, posizione e rapporto qualità/prezzo. Raffy
+ed Evan giudicano l’esperienza conveniente; altri feedback critici mostrano che questa percezione varia.
+
+
+--- Page 2 ---
+IT Italian Trattoria | 530 7th Avenue | Settembre 2026
+2
+Criticità e azioni operative
+1. Prezzi tra kiosk e cassa | Priorità
+Katya Gazaryan sostiene che ordinare dalla macchina costi più che alla cassa, senza avviso, e descrive una
+risposta scortese al reclamo. È una segnalazione da verificare, non una discrepanza già accertata.
+Azione: confrontare lo stesso ordine su kiosk e cassa, inclusi modificatori, imposte, promozioni e addebiti.
+Correggere eventuali differenze non previste; comunicare chiaramente il prezzo finale. Dare al team una
+procedura per verificare e gestire contestazioni sul conto.
+2. Bagni e manutenzione | Priorità immediata
+Daniel Dev segnala WC non funzionante, assenza di carta igienica, dispenser del sapone e asciugamani ad
+aria non funzionanti. La recensione riguarda anche un’attesa lunga per la pizza. Gomi Shini descrive invece il
+locale come pulito: i giudizi diversi non eliminano la necessità di verificare la segnalazione specifica.
+Azione: controllo immediato di WC, carta, sapone e sistemi di asciugatura; ripristino dei guasti e controlli
+durante i turni, con un responsabile incaricato.
+3. Temperatura e coordinamento dei piatti
+Gerben apprezza la cordialità, ma trova scomodo ordinare al banco o tablet; riferisce piatti arrivati in momenti
+diversi e non del tutto caldi. Daniel descrive una pizza arrivata molto tardi rispetto all’esperienza con lasagna e
+pizza.
+Azione: verificare tempi di uscita tra cucina e forno, coordinare i piatti dello stesso ordine e controllare la
+temperatura prima del servizio. Spiegare il modello di ordinazione al cliente e comunicare eventuali attese.
+4. Pasta e rapporto qualità/prezzo
+Randy Hernandez apprezza l’atmosfera ma descrive pasta troppo oleosa e consistenza sgradevole, con
+prezzo eccessivo rispetto alla qualità. Benjamin McD considera il cibo poco convincente per il prezzo, pur
+apprezzando rapidità e tranquillità. Gaby commenta brevemente le porzioni: il testo non chiarisce se le ritenga
+adeguate o limitate.
+Azione: controlli su cottura, consistenza e dosaggio del condimento; verificare porzioni e presentazione. Non
+cambiare le ricette sulla base di un singolo feedback, ma monitorare eventuali ricorrenze.
+Valutazione operativa
+I complimenti al personale e al prodotto sono numerosi. Le criticità riguardano soprattutto la costanza
+dell’esperienza e la fiducia nel prezzo finale. Mantenere l’accoglienza e correggere i problemi concreti
+segnalati offre la direzione più chiara per il team.
+
+
+--- Page 3 ---
+IT Italian Trattoria | 530 7th Avenue | Settembre 2026
+3
+Delivery e piano per il team
+Uber Eats | Lettura dei dati
+Il dashboard mostra un rating complessivo Uber Eats di 4.6. Nei 9 record disponibili, l’unico giudizio
+esplicito sul gusto è quello di Cam H: “Non molto gustoso” per una Carbonara, con 57 minuti di consegna
+indicati.
+Gli altri record non contengono commenti utilizzabili per identificare problemi o punti di forza specifici. Le
+risposte del ristorante, positive o di scuse, non sostituiscono il feedback del cliente e non vengono usate per
+attribuire un giudizio alle recensioni senza testo.
+Azione: verificare esecuzione, temperatura e resa della Carbonara dopo il trasporto. Separare tempi di
+preparazione, ritiro e consegna prima di attribuire responsabilità per i 57 minuti. Il singolo caso non dimostra
+un problema generalizzato del delivery.
+Recensioni da gestire
+Nell’estratto risultano senza risposta pubblicata Seguy Mpira, Benjamin McD, Randy Hernandez, Daniel
+Dev, Katya Gazaryan, Luca S, Rodrigo Bauso e Cam H: sono otto record, coerenti con il contatore del
+dashboard. Verificare lo stato attuale prima di intervenire.
+Priorità: raccogliere informazioni dal manager sui casi di prezzi e bagni, poi rispondere in modo specifico
+senza confermare fatti non verificati. Completare anche le risposte ai complimenti nominativi. Il pannello indica
+limiti di 14 giorni per rispondere su Uber Eats e che le risposte già pubblicate non sono modificabili.
+Azioni immediate
+Prezzi: test dello stesso ordine su kiosk e cassa; verifica di menu, modificatori e addebiti.
+Bagni: controllo funzionale e rifornimenti, riparazioni e responsabilità dei controlli durante i turni.
+Cucina e servizio: coordinamento dell’uscita dei piatti, controlli sulla temperatura e qualità della pasta;
+spiegazione del modello di ordine e gestione dei reclami.
+Da mantenere e monitorare
+Condividere gli elogi a Oliver e Camila, verificando le varianti dei nomi. Mantenere la qualità di pizza, pasta e
+dolci e la cura della vetrina. Nel report successivo verificare nuove segnalazioni su prezzi, bagni, piatti freddi e
+consistenza della pasta; evitare confronti quantitativi senza un periodo precedente completo e comparabile.
+Testo per il Weekly / Monthly Report
+530 7th Avenue shows overall ratings of 4.5 on Google and 4.6 on Uber Eats. The September extract contains 64 records, including two
+deleted Google entries. Hospitality is a recurring strength, with frequent praise for Oliver and Camila. Priority follow-up concerns alleged
+kiosk/cashier pricing differences, restroom maintenance, food temperature and meal timing. Pasta consistency and perceived value
+should also be monitored.
+Fonte: testo del dashboard IT – New York Time Square fornito dall’utente. Analisi dei record disponibili; segnalazioni dei clienti non
+verificate indipendentemente.

@@ -1,0 +1,79 @@
+--- Page 1 ---
+IT Italian Trattoria | 390 5th Avenue | Settembre 2026
+1
+IT ITALIAN TRATTORIA
+390 5th Avenue
+Reviews Recap
+Settembre 2026 | Midtown, New York
+Pizza, pasta e personale sono i principali punti di forza. Le recensioni critiche richiedono controlli sulla
+costanza del prodotto, sull’organizzazione dell’ordine al banco e sulla gestione dei reclami. Sampling e
+posizione contribuiscono ad attirare i passanti.
+Google
+Uber Eats
+Yelp
+TripAdvisor
+4.4
+4.6
+3.3
+4.2
+Dati e perimetro dell’analisi
+Il dashboard mostra 45 recensioni, 1 da processare e 36 elaborate da Myli. L’estratto contiene 45 record
+datati 1–30 settembre: 40 Google, 4 Yelp e 1 TripAdvisor. Non contiene il dettaglio delle recensioni Uber
+Eats.
+I rating sono complessivi, non medie del mese. Le stelle individuali non sono visibili, quindi non è possibile calcolare media mensile o
+ripartizione positiva/negativa per stelle. Aron pubblica sostanzialmente lo stesso commento su Google e Yelp: sono due record di
+piattaforma, non due esperienze indipendenti.
+Cosa sta funzionando
+Pizza. Aron elogia la Diavola, la cottura, il salame piccante e l’impasto. Hyo apprezza la Positano; Yana e
+Maleja elogiano la pizza. Candace racconta di aver acquistato una slice dopo un assaggio offerto all’esterno,
+pur non avendo intenzione di mangiare: un esempio concreto del valore del sampling.
+Pasta e dolci. Lynda apprezza Rigatoni Vodka al dente e salsa. Guille elogia la Bolognese. Sophia descrive
+pasta saporita e cannoli molto apprezzati. Riley su Yelp segnala positivamente le uova al tartufo e un servizio
+eccellente.
+Personale. Asha viene citata da Fly’s Outback Adventures per la personalizzazione del pranzo, da Gaurav
+insieme ad Altyn per l’accoglienza e da Siddhant insieme a Djibril per la disponibilità. Juan, Catarina e
+numerosi altri clienti riconoscono attenzione, cordialità e supporto nella scelta.
+Atmosfera e valore. Gaurav valorizza la posizione sulla 5th Avenue, vicino all’Empire State Building. Alex
+apprezza il locale per una pausa in città. Bruna, Ashley ed Eustaquio giudicano positivamente l’esperienza e il
+rapporto qualità/prezzo. Fernanda esprime una forte intenzione di tornare.
+
+
+--- Page 2 ---
+IT Italian Trattoria | 390 5th Avenue | Settembre 2026
+2
+Criticità e azioni operative
+1. Costanza del prodotto
+Pasta: Triche Trache la descrive scotta e con troppo liquido; Dan S su Yelp la trova poco saporita. Questi
+feedback contrastano con i complimenti ai Rigatoni Vodka e alla Bolognese: verificare cottura e finitura tra
+turni.
+Pizza e ingredienti: Uwe critica un fondo appiccicoso. Ewa T segnala consistenza insolita del pollo aggiunto
+all’Alfredo e della burrata sulla pizza, oltre a pomodori e burrata freddi. Hamida descrive cibo freddo, troppo
+salato e percepito come non fresco. Sono segnalazioni dei clienti, non problemi già accertati.
+Azione: controllare cottura e scolatura della pasta, condimenti, fondo della pizza, temperatura di servizio e
+qualità degli ingredienti. Verificare preparazione del pollo e conservazione/consistenza della burrata.
+Distinguere topping aggiunti freddi secondo ricetta da un piatto servito a temperatura inadeguata.
+2. Ordine al banco e gestione dei reclami
+Dan S racconta di essere stato accompagnato al tavolo con menu e poi indirizzato al banco; descrive tre
+membri dello staff in disaccordo su chi prendere l’ordine. Leon critica il servizio senza dettagli; Hamida
+riferisce disinteresse del management di fronte al problema. Uwe menziona il self-service.
+Azione: spiegare subito dove e come ordinare, assegnare chiaramente la presa in carico al banco e gestire i
+disaccordi del team fuori dall’esperienza del cliente. Stabilire chi interviene sui reclami e come proporre una
+soluzione.
+3. Bevande, prezzi ed extra
+Triche Trache contesta una bottiglia di vino rosso servita in un secchiello con ghiaccio. Il commento non
+identifica il vino: verificare etichetta e temperatura prevista. Jaime apprezza i Rigatoni Vodka ma li trova
+costosi, soprattutto con pollo aggiunto; Ashley nota una lasagna più piccola rispetto agli altri piatti, pur
+giudicando buono il valore complessivo.
+Azione: controllare il servizio del vino in base alla tipologia; rendere chiari i supplementi prima dell’ordine e
+verificare coerenza delle porzioni.
+Priorità per il team
+Immediate: quality check su pasta, pizza, pollo e burrata; verifica temperature; brief su ordine al banco e
+gestione dei reclami. Condividere gli elogi ad Asha, Altyn e Djibril. Mantenere sampling e cura della vetrina.
+Risposte: Luca S risulta con risposta suggerita. Per i quattro record Yelp il pannello richiede credenziali per rispondere: il contatore “1 da
+processare” non descrive quindi tutte le recensioni senza risposta visibile. Il testo di Luca S compare anche nell’estratto 7th Avenue:
+verificare l’attribuzione prima di contarlo come due esperienze distinte.
+Testo per il Weekly / Monthly Report
+390 5th Avenue shows overall ratings of 4.4 on Google and 4.6 on Uber Eats. The September extract includes 45 records: 40 Google, 4
+Yelp and 1 TripAdvisor. Pizza, pasta, welcoming staff and the location are recurring strengths. Product consistency, food temperature,
+counter-order coordination and complaint handling require follow-up. Sampling generated at least one explicitly reported purchase.
+Fonte: testo del dashboard IT – New York 390 5th Ave fornito dall’utente. Segnalazioni dei clienti non verificate indipendentemente.

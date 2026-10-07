@@ -1,0 +1,12 @@
+DoorDash Merchant Portal - Ratings and reviews (transcribed from screenshot)
+Store: IT Italian Trattoria Lincoln (Lincoln Rd), 1014 Lincoln Rd, Miami Beach, FL
+DoorDash store_id: 26142772
+Period: 01/09/2026 - 30/09/2026
+
+Ratings during this period
+- Loved: 100% (up 50% vs. previous 29 days)
+- Liked: 0%
+- Didn't like: 0%
+- Number of ratings: 2 (change vs. previous 29 days: 0)
+
+Lifetime rating (shown to customers): 4.04 / 5 stars
