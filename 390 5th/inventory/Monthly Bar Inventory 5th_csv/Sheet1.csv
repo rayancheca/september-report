@@ -1,0 +1,50 @@
+Inventory Date,Area,Count List,Description,Type,Par Level Count,Par Level UOM,Cost($),Cost UOM,UOM Count,UOM,Item UOM Count,Item UOM,Need to Order Count,Need to Order UOM,UOM Total,UOM Total UOM,Line Item Cost ($)
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Beer,"Beer, Draft Peroni",Product,0.0,keg,30.3333333333333,each,3.0,keg,,each,--,keg,9.0,each,272.9999
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Beer,"Beer, Birra Moretti",Product,0.0,pack,1.50625,bottle,9.0,pack,12.0,bottle,--,pack,228.0,bottle,343.425
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Beer,"Beer, Peroni",Product,0.0,case,1.46458333333333,bottle,5.0,case,12.0,bottle,--,case,132.0,bottle,193.3249
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Liquor,"Liqueur, Italicus",Product,0.0,can,27.1916666666667,bottle,,can,1.0,bottle,--,can,1.0,bottle,27.1916
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Liquor,"Liqueur, St. Germain 40",Product,0.0,case,25.8616666666667,bottle,1.0,case,4.0,bottle,--,case,10.0,bottle,258.6166
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Liquor,"Liqueur, Aperol Aperitivo",Product,0.0,case,26.4,bottle,1.0,case,2.0,bottle,--,case,8.0,bottle,211.2
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Liquor/Liqueur, Campari Aperitivo","Liqueur, Campari Aperitivo",Product,0.0,liter,36.2666666666667,liter,,,,,--,liter,47.25,liter,1713.6
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Liquor/Liqueur, Campari Aperitivo",750 milliliter - 12 bottle / case,Product-Items,,,,,5.0,case,3.0,bottle,,,47250.0,milliliter,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Liquor/Liqueur, Campari Aperitivo",1 liter - 6 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,liter,
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Liquor,"Liqueur, Limoncello",Product,0.0,case,21.8233333333333,bottle,,case,5.0,bottle,--,case,5.0,bottle,109.1166
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Still Mineral Water","NA Bev, Still Mineral Water",Product,0.0,each,0.327083333333333,each,,,,,--,each,120.0,each,39.2499
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Still Mineral Water",1 count - 24 bottle / case,Product-Items,,,,,5.0,case,0.0,bottle,,,120.0,count,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Still Mineral Water",1 each - 24 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Still Mineral Water",1 each - 24 count / case,Product-Items,,,,,0.0,case,0.0,count,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Sparkling Water","NA Bev, Sparkling Water",Product,0.0,each,0.327083333333333,each,,,,,--,each,192.0,each,62.7999
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Sparkling Water",24 each - 1  / case,Product-Items,,,,,8.0,case,0.0,,,,192.0,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Sparkling Water",1 each - 12 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Sparkling Water",1 each - 24 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, MoleCola Classic","NA Bev, MoleCola Classic",Product,0.0,each,1.29166666666667,each,,,,,--,each,108.0,each,139.5
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, MoleCola Classic",1 each - 12 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, MoleCola Classic",1 each - 24 bottle / case,Product-Items,,,,,4.5,case,0.0,bottle,,,108.0,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Molecola SF","NA Bev, Molecola SF",Product,0.0,each,1.29416666666667,each,,,,,--,each,84.0,each,108.71
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Molecola SF",1 each - 12 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Molecola SF",1 each - 24 bottle / case,Product-Items,,,,,3.5,case,0.0,bottle,,,84.0,each,
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / N/A Drinks,"NA Bev, Peach Iced Tea",Product,0.0,case,1.2125,bottle,6.0,case,,bottle,--,case,72.0,bottle,87.3
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / N/A Drinks,"NA Bev, Lemon Iced Tea",Product,0.0,case,1.2125,count,4.0,case,,count,--,case,48.0,count,58.2
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / N/A Drinks,"NA Bev, Limonata Soda",Product,0.0,case,1.10666666666667,can,6.0,case,,can,--,case,144.0,can,159.36
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Aranciata Soda","NA Bev, Aranciata Soda",Product,0.0,each,1.17541666666667,each,,,,,--,each,,each,0.0
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Aranciata Soda",1 each - 12 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / N/A Drinks /NA Bev, Aranciata Soda",1 each - 24 bottle / case,Product-Items,,,,,0.0,case,0.0,bottle,,,,each,
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / N/A Drinks,"NA Bev, Blood Orange Soda",Product,0.0,case,7.0525,count,6.5,case,,count,--,case,26.0,count,183.365
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Red Wine,"Wine Red, La Vis Pinot Nero",Product,0.0,case,15.99,each,2.0,case,,each,--,case,24.0,each,383.76
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Red Wine,"Wine Red, La Vis Cabernet Trentino 2023",Product,0.0,each,0.0,each,2.3,each,,,--,each,2.3,each,0.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Red Wine,"Wine Red, Cafaggio Chianti Classico Single Estate",Product,0.0,case,13.0,bottle,7.0,case,,bottle,--,case,84.0,bottle,1092.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Red Wine,"Wine Red, Villa Sparina Barbera",Product,0.0,case,13.6666666666667,bottle,3.0,case,,bottle,--,case,36.0,bottle,492.0
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Rose Wine/Wine Rose, La Gioiosa Prosecco Rose","Wine Rose, La Gioiosa Prosecco Rose",Product,0.0,each,10.0,each,,,,,--,each,12.0,each,120.0
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Rose Wine/Wine Rose, La Gioiosa Prosecco Rose",1 each - 12 bottle / case,Product-Items,,,,,1.0,case,0.0,bottle,,,12.0,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / Rose Wine/Wine Rose, La Gioiosa Prosecco Rose",1 each - 12 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Rose Wine,"Wine Rose, Rose Lavignone",Product,0.0,case,13.6666666666667,bottle,6.5,case,,bottle,--,case,78.0,bottle,1066.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Sparkling wine,"Wine Sparkling, Valdo Numero 1",Product,0.0,case,6.67,bottle,,case,,bottle,--,case,,bottle,0.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / Sparkling wine,"Wine Sparkling, La Gioiosa Frizzante Bianco Prosecco",Product,0.0,case,7.0,bottle,8.0,case,7.0,bottle,--,case,103.0,bottle,721.0
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / White wine/Wine White, Villa Sparina Gavi","Wine White, Villa Sparina Gavi",Product,0.0,each,13.6666666666667,each,,,,,--,each,30.0,each,410.0
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / White wine/Wine White, Villa Sparina Gavi",1 each - 12 bottle / case,Product-Items,,,,,2.5,case,0.0,bottle,,,30.0,each,
+09/30/2026,Monthly Bar Inventory,"Monthly Bar Inventory / White wine/Wine White, Villa Sparina Gavi",1 each - 12 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / White wine,"Wine White, Sauvignon Blanc Cantina Lavis",Product,0.0,case,10.3333333333333,bottle,9.5,case,,bottle,--,case,114.0,bottle,1177.9999
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / White wine,"Wine White, La Vis Chardonnay Trentino",Product,0.0,case,10.3333333333333,bottle,2.5,case,1.0,bottle,--,case,31.0,bottle,320.3333
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / White wine,"Wine White, Canaletto Pinot Grigio",Product,0.0,case,9.99,bottle,,case,,bottle,--,case,,bottle,0.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / White wine,"Wine White, Bennati Pinot Grigio Friuli",Product,0.0,case,24.0,bottle,2.0,case,6.0,bottle,--,case,30.0,bottle,720.0
+09/30/2026,Monthly Bar Inventory,Monthly Bar Inventory / White wine,"Wine White, Valdo Prosecco Brut Superior",Product,0.0,case,14.0,bottle,1.0,case,,bottle,--,case,6.0,bottle,84.0

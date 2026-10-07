@@ -1,0 +1,2 @@
+Timestamp local time,Payout date,Business ID,Business name,Store ID,Store name,Merchant store ID,Transaction type,Delivery UUID,DoorDash transaction ID,DoorDash order ID,Merchant delivery ID,POS order ID,Channel,Description,Error charges,Adjustments
+2026-09-26 16:05:21.873211,2026-10-01,473492,IT Italian Trattoria,24838064,IT Italian Trattoria (7th Ave),24838064,Error Charge,aa15d632-d341-3001-b987-292cdbc358ce,18637760949,DBC358CE,1c8c15ef-2d47-4c47-8bbe-dc42c85bc495,00ebb8cc-86bc-4df6-ba5f-afd4be81f521,Marketplace,1 PROSCIUTTO E BURRATA missing,-23.40,0.00

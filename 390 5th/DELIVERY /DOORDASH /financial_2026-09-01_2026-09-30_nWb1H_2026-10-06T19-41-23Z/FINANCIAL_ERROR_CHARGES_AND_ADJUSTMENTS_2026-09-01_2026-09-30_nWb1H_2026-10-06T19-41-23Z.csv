@@ -1,0 +1,2 @@
+Timestamp local time,Payout date,Business ID,Business name,Store ID,Store name,Merchant store ID,Transaction type,Delivery UUID,DoorDash transaction ID,DoorDash order ID,Merchant delivery ID,POS order ID,Channel,Description,Error charges,Adjustments
+2026-09-26 22:27:58.623054,2026-10-01,473492,IT Italian Trattoria,38087931,IT Italian Trattoria (5th Ave),38087931,Error Charge,d382e160-6925-3001-8a16-40bf9f37fe28,18643147636,9F37FE28,b298ae18-0488-4864-a394-c9d7764c99a7,fb90b9c4-9252-4245-8085-67b77b9f4733,Marketplace,2 PIZZA MARGHERITA DI BURRATA food quality,-34.88,0.00

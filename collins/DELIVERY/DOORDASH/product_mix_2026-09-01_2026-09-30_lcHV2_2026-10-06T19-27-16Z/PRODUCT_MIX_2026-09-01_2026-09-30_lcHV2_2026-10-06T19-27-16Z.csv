@@ -1,0 +1,32 @@
+Start date,End date,Business ID,Business name,Store ID,Store name,Channel,Item name,Popular item,Currency,Gross sales,Discounts,Total sold,Total item errors,Total error charges
+2026-09-07,2026-09-24,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,SPAGHETTI ALFREDO,1,USD,114.95,8.16,5,0,0.00
+2026-09-03,2026-09-29,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,MARGHERITA,0,USD,86.70,0.00,5,0,0.00
+2026-09-11,2026-09-29,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,RIGATONI VODKA,1,USD,82.75,0.00,4,0,0.00
+2026-09-08,2026-09-25,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,DIAVOLA,0,USD,65.80,1.45,3,0,0.00
+2026-09-08,2026-09-23,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,SPAGHETTI GENOVESE (BASIL PESTO),0,USD,62.75,0.00,3,0,0.00
+2026-09-17,2026-09-23,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,1/2 SPIANATA PALA,0,USD,49.90,0.00,2,0,0.00
+2026-09-25,2026-09-25,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,FULL MARGHERITA PALA,0,USD,48.95,3.55,1,0,0.00
+2026-09-19,2026-09-23,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,LASAGNA,1,USD,45.90,0.00,2,0,0.00
+2026-09-07,2026-09-23,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,POSITANO (TRUFFLE CREAM),0,USD,43.90,7.75,2,0,0.00
+2026-09-07,2026-09-13,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,SPAGHETTI CARBONARA,1,USD,43.90,0.90,2,0,0.00
+2026-09-08,2026-09-29,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,STRACCIATELLA AND FOCACCIA,1,USD,41.85,0.00,3,0,0.00
+2026-09-15,2026-09-17,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,COTTO,0,USD,41.55,0.00,2,0,0.00
+2026-09-23,2026-09-29,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,TIRAMISÙ COFFEE,1,USD,39.80,8.87,4,0,0.00
+2026-09-30,2026-09-30,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,1/2 TRUFFLE PALA,0,USD,31.95,0.00,1,0,0.00
+2026-09-08,2026-09-08,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,RIGATONI TARTUFO (TRUFFLE),0,USD,30.90,0.00,1,0,0.00
+2026-09-03,2026-09-28,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,MOLECOLA,1,USD,27.80,0.00,4,0,0.00
+2026-09-16,2026-09-16,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Storefront,RIGATONI VODKA,1,USD,25.60,0.00,1,0,0.00
+2026-09-07,2026-09-07,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,1/2 MARGHERITA PALA,0,USD,24.95,0.00,1,0,0.00
+2026-09-13,2026-09-15,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,Bombolone Pistacchio,0,USD,21.90,0.00,2,0,0.00
+2026-09-29,2026-09-29,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,MARGHERITA DI BURRATA,0,USD,20.95,6.75,1,0,0.00
+2026-09-06,2026-09-06,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,RIGATONI ALLA SICILIANA,0,USD,17.95,0.00,1,0,0.00
+2026-09-11,2026-09-11,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,SPAGHETTI POMODORO,0,USD,15.95,0.00,1,0,0.00
+2026-09-26,2026-09-26,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,CAPRESE,0,USD,15.95,0.00,1,0,0.00
+2026-09-13,2026-09-13,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Storefront,MARGHERITA,0,USD,15.95,0.00,1,0,0.00
+2026-09-08,2026-09-08,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,CANNOLO CHOCOLATE,1,USD,15.90,0.00,2,0,0.00
+2026-09-28,2026-09-28,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,Salty Croissant Caprese,0,USD,11.95,0.00,1,0,0.00
+2026-09-26,2026-09-26,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,Croissant Almond,0,USD,10.95,0.00,1,0,0.00
+2026-09-07,2026-09-07,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,TIRAMISÙ NUTELLA,0,USD,9.95,0.41,1,0,0.00
+2026-09-08,2026-09-08,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,TIRAMISÙ LIMONCELLO,0,USD,9.95,0.00,1,0,0.00
+2026-09-28,2026-09-28,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,Pistacchio Croissant,0,USD,7.95,0.00,1,0,0.00
+2026-09-13,2026-09-13,473492,IT Italian Trattoria,1056334,IT Italian Trattoria,Marketplace,LIMONATA,0,USD,6.95,0.00,1,0,0.00

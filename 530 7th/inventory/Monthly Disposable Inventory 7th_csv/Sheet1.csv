@@ -1,0 +1,109 @@
+Inventory Date,Area,Count List,Description,Type,Par Level Count,Par Level UOM,Cost($),Cost UOM,UOM Count,UOM,Item UOM Count,Item UOM,Need to Order Count,Need to Order UOM,UOM Total,UOM Total UOM,Line Item Cost ($)
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, GREEN DISH DETERGENT",Product,0.0,case,11.35,each,,case,6.0,each,--,case,6.0,each,68.1
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 4/CT White Sanitizer",Product,0.0,case,16.4,each,,case,3.0,each,--,case,3.0,each,49.2
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 4/CT Red Dish Detergent",Product,0.0,case,23.625,each,,case,6.0,each,--,case,6.0,each,141.75
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 4/CT High-Temp Rinse blue",Product,0.0,case,33.7725,each,,case,3.0,each,--,case,3.0,each,101.3175
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Pure Bright Bleach 6%",Product,0.0,case,3.91666666666667,each,,case,13.0,each,--,case,13.0,each,50.9166
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Descaler",Product,0.0,each,18.7375,each,,each,,,--,each,1.0,each,18.7375
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 5GAL Dish Multi-Temp Detergent White",Product,0.0,case,16.625,each,1.0,case,,each,--,case,4.0,each,66.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Red Multi Temp Detergent",Product,0.0,case,15.75,pack,,case,,pack,--,case,,pack,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 5GAL Dish Rinse Low-Temp blue",Product,0.0,each,138.33,each,,each,,,--,each,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Solid Silversoak",Product,0.0,case,0.0025,each,,case,9.0,each,--,case,9.0,each,0.0225
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 4/CT Multi-Temp Dish Detergent Red",Product,0.0,case,34.855,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 5GAL Dish Enzyme Digester","Cleaning Supplies, SUPP 5GAL Dish Enzyme Digester",Product,0.0,each,110.48,each,,,,,--,each,3.0,each,331.44
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 5GAL Dish Enzyme Digester",1 each - 1  / case,Product-Items,,,,,3.0,case,0.0,,,,3.0,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 5GAL Dish Enzyme Digester",1 each - 1  / each,Product-Items,,,,,0.0,each,,,,,,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 2/CT #12 Glass Cleaner","Cleaning Supplies, SUPP 2/CT #12 Glass Cleaner",Product,0.0,gallon,5.9525,gallon,,,,,--,gallon,,gallon,0.0
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 2/CT #12 Glass Cleaner",1 gallon - 4 each / case,Product-Items,,,,,0.0,case,,each,,,,gallon,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP 2/CT #12 Glass Cleaner",1 gallon - 6 each / case,Product-Items,,,,,0.0,case,,each,,,,gallon,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Floor Cleaner Lemon",Product,0.0,case,12.4875,each,,case,2.0,each,--,case,2.0,each,24.975
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Air Freshener",Product,0.0,case,4.375,pack,,case,,pack,--,case,,pack,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Oven Grill Cleaner",Product,0.0,case,7.1375,each,1.0,case,,each,--,case,12.0,each,85.65
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP 2/CT #10 Heavy Duty Degreaser",Product,0.0,case,32.375,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Delimer Cleaner",Product,0.0,case,28.3375,each,,case,1.0,each,--,case,1.0,each,28.3375
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP White Towel",Product,0.0,case,0.29975,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Blue Towel",Product,0.0,case,0.3103125,each,3.0,case,,each,--,case,480.0,each,148.95
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Hand Soap Foam","Cleaning Supplies, SUPP Hand Soap Foam",Product,0.0,each,22.375,each,,,,,--,each,4.0,each,89.5
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Hand Soap Foam",1 each - 4 each / case,Product-Items,,,,,0.0,case,4.0,each,,,4.0,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Hand Soap Foam",1 each - 6 each / case,Product-Items,,,,,0.0,case,,each,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Pink Lotion Foam Hand Soap",Product,0.0,case,5.75,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Gloves M Size","Cleaning Supplies, SUPP Black Gloves M Size",Product,0.0,pack,0.04595,pack,,,,,--,pack,2000.0,pack,91.9
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Gloves M Size",1 each - 1000 each / case,Product-Items,,,,,2.0,case,0.0,each,,,2000.0,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Gloves M Size",1 each - 1000 pack / pack,Product-Items,,,,,0.0,pack,,pack,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Black Gloves L Size",Product,0.0,case,0.04595,pack,1.0,case,,pack,--,case,1000.0,pack,45.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Black Gloves XL Size",Product,0.0,case,0.04595,count,,case,,count,--,case,,count,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Stainless Steel Sponge",Product,0.0,case,0.625,count,1.5,case,,count,--,case,18.0,count,11.25
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Sponge Yellow/Green",Product,0.0,case,0.769791666666667,pack,3.0,case,,pack,--,case,144.0,pack,110.85
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Paper Towel",Product,0.0,case,4.25,each,3.0,case,,each,--,case,18.0,each,76.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Paper Towel",Product,0.0,case,6.15833333333333,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Toilet Paper",Product,0.0,case,2.1625,count,5.0,case,,count,--,case,60.0,count,129.75
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Trash Bag","Cleaning Supplies, SUPP Black Trash Bag",Product,0.0,each,0.245,each,,,,,--,each,1100.0,each,269.5
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Trash Bag",1 count - 100 each / case,Product-Items,,,,,11.0,case,0.0,each,,,1100.0,count,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Cleaning Supplies, SUPP Black Trash Bag",1 each - 100 each / case,Product-Items,,,,,0.0,case,,each,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP BLUE Trash Bag",Product,0.0,case,0.3395,each,11.0,case,,each,--,case,1100.0,each,373.45
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Napkin","Disposables, SUPP Napkin",Product,0.0,pack,0.0142678571428571,pack,,,,,--,pack,11200.0,pack,159.7999
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Napkin",1 each - 2800 pack / case,Product-Items,,,,,4.0,case,0.0,pack,,,11200.0,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Napkin",1 each - 3000 pack / case,Product-Items,,,,,0.0,case,,pack,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Straw",Product,0.0,case,0.024975,pack,,case,10.0,pack,--,case,10.0,pack,0.2497
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposable, SUPP Coffee Filter","Disposable, SUPP Coffee Filter",Product,0.0,each,0.02595,each,,,,,--,each,2004.0,each,52.0038
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposable, SUPP Coffee Filter",1 each - 1000 pack / case,Product-Items,,,,,2.0,case,4.0,pack,,,2004.0,each,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposable, SUPP Coffee Filter",1 each - 500 pack / case,Product-Items,,,,,0.0,case,,pack,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, SUPP Plastic Cup 9oz",Product,0.0,case,0.0925520833333333,count,4.0,case,,count,--,case,3840.0,count,355.3999
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, VB cup cold 9oz squat pet",Product,0.0,case,0.0565,pack,3.0,case,,pack,--,case,3000.0,pack,169.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Lid for 12-16oz Plastic Cup",Product,0.0,case,0.07995,each,3.0,case,,each,--,case,3000.0,each,239.85
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, VB Lid Cup 12 OZ Slot",Product,0.0,case,0.0399,each,8.0,case,,each,--,case,8000.0,each,319.2
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Clear Lid for 12- 24oz Cup",Product,0.0,case,0.0694,each,2.0,case,,each,--,case,2000.0,each,138.8
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Cold Cup 16oz PET",Product,0.0,case,0.0599,each,6.0,case,,each,--,case,6000.0,each,359.4
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Cold Cup LOGO 16oz",Product,0.0,case,1e-05,each,2.0,case,,each,--,case,2000.0,each,0.02
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Coffee Lid for 12oz CUP HOT",Product,0.0,case,0.0315,each,5.0,case,,each,--,case,5000.0,each,157.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Coffee Lid For 4oz Hot Cups",Product,0.0,case,0.0398,pack,2.0,case,,pack,--,case,2000.0,pack,79.6
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Paper Hot Cup 4Oz",Product,0.0,each,0.0,each,400.0,each,,,--,each,400.0,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, VB Lid Hot Cup Dome White 92MM",Product,0.0,case,5.65,pack,5.0,case,,pack,--,case,50.0,pack,282.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Hot Cup LOGO 12oz",Product,0.0,case,0.028,each,7.0,case,,each,--,case,3500.0,each,98.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Hot Cup LOGO 16oz",Product,0.0,case,2e-05,each,7.0,case,,each,--,case,3500.0,each,0.07
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Sleeve for Hot Cup",Product,0.0,case,0.0554,each,2.0,case,,each,--,case,2000.0,each,110.8
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Wood Coffee Stirrer",Product,0.0,case,0.0315,pack,2.0,case,,pack,--,case,2000.0,pack,63.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, SUPP Carrier for Cups",Product,0.0,case,0.138333333333333,each,2.0,case,,each,--,case,600.0,each,82.9999
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, 1.5 oz Souffle Portion Cup",Product,0.0,case,0.01198,pack,3.0,case,,pack,--,case,7500.0,pack,89.85
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Plastic Lid For Small Cup 1.5oz",Product,0.0,case,29.95,case,2.0,case,,,--,case,2.0,case,59.9
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, VB Kit Cuttery MED-WT 4PC",Product,0.0,case,53.95,case,6.0,case,,,--,case,6.0,case,323.7
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, SUPP Cutlery Pack",Product,0.0,pack,0.085,pack,1.0,pack,,,--,pack,250.0,pack,21.25
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, White Bags Small",Product,0.0,case,4e-05,each,12.0,case,,each,--,case,3000.0,each,0.12
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Pizza Box LOGO 12in",Product,0.0,case,0.16,each,12.0,case,,each,--,case,600.0,each,96.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Take-Out Boxes",Product,0.0,pack,0.244933333333333,pack,4.0,pack,,,--,pack,1200.0,pack,293.9199
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Fiber Bowl 32oz",Product,0.0,case,89.95,case,2.0,case,,,--,case,2.0,case,179.9
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Clear Dome Lid 24-32",Product,0.0,case,151.75,each,2.0,case,,each,--,case,600.0,each,303.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Take-Out Bowl",Product,0.0,case,0.296,each,2.0,case,,each,--,case,300.0,each,88.8
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Paper Sandwich Kraft Bag",Product,0.0,pack,99.95,pack,8.0,pack,,,--,pack,8.0,pack,799.6
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, SecureIt Label Red",Product,0.0,case,16.475,each,1.0,case,,each,--,case,2.0,each,32.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Clear Lid for 6.8oz",Product,0.0,case,0.08995,each,1.0,case,,each,--,case,1000.0,each,89.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Dessert Cup Clear",Product,0.0,case,0.44975,each,3.0,case,,each,--,case,600.0,each,269.85
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, VB Pan Liner Quilon 25LB",Product,0.0,case,59.35,case,5.0,case,,,--,case,5.0,case,296.75
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Sheet Deli KFT Paper 12X10.75",Product,0.0,case,8.05,count,4.0,case,6.0,count,--,case,54.0,count,434.7
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Liner Pan 16.375X24",Product,0.0,case,89.95,case,2.0,case,,,--,case,2.0,case,179.9
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Film Roll","Disposables, SUPP Film Roll",Product,0.0,each,19.96,each,,,,,--,each,6.0,each,119.76
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Film Roll",1 roll - 1  / case,Product-Items,,,,,6.0,case,0.0,,,,6.0,roll,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, SUPP Film Roll",1 roll - 1  / each,Product-Items,,,,,0.0,each,,,,,,roll,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Paper Pastry Bag",Product,0.0,case,0.1995,each,3.0,case,,each,--,case,300.0,each,59.85
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, Thermal Paper","Disposables, Thermal Paper",Product,0.0,each,1.398,each,,,,,--,each,50.0,each,69.9
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, Thermal Paper",1 count - 50 each / case,Product-Items,,,,,1.0,case,0.0,each,,,50.0,count,
+09/30/2026,Monthly Disposable Inventory,"Monthly Disposable Inventory / Disposables/Disposables, Thermal Paper",1 each - 50 each / case,Product-Items,,,,,0.0,case,,each,,,,each,
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Squeeze Bottle 12 OZ",Product,0.0,case,1.65833333333333,pack,,case,,pack,--,case,,pack,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Squeeze Bottle 24 OZ",Product,0.0,case,13.95,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Rational Oven Cleaner Tabs",Product,0.0,case,1.42,each,1.0,case,,each,--,case,100.0,each,142.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, Rational Rinse Tabs Green",Product,0.0,case,1.37666666666667,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Broom",Product,0.0,count,12.95,count,3.0,count,,,--,count,3.0,count,38.85
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, SUPP Dust Pans",Product,0.0,case,18.25,case,3.0,case,,,--,case,3.0,case,54.75
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Mop Blue",Product,0.0,each,6.5,each,3.0,each,,,--,each,3.0,each,19.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Cleaning Supplies, SUPP Mop Handle",Product,0.0,case,16.9,case,3.0,case,,,--,case,3.0,case,50.7
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Gen Expenses, Copy Paper 8.5x11",Product,0.0,case,0.01259,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Catering Box Half",Product,0.0,case,89.95,case,1.0,case,,,--,case,1.0,case,89.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Catering Box Regular",Product,0.0,case,96.5,case,1.0,case,,,--,case,1.0,case,96.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Pan Aluminum Full Medium",Product,0.0,case,76.95,case,1.0,case,,,--,case,1.0,case,76.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Pan Aluminum 1/2 Medium",Product,0.0,case,54.95,case,1.0,case,,,--,case,1.0,case,54.95
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Lid for Full Steam Pan",Product,0.0,case,0.73,each,1.0,case,,each,--,case,50.0,each,36.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Lid for 1/2 Steam Pan",Product,0.0,case,0.325,each,1.0,case,,each,--,case,100.0,each,32.5
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, POS Printer Ribbon Epson",Product,0.0,case,1.99583333333333,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Insert Cup",Product,0.0,case,0.0899,count,,case,,count,--,case,,count,0.0
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposable, Foil Roll",Product,0.0,count,31.95,count,2.0,count,,,--,count,2.0,count,63.9
+09/30/2026,Monthly Disposable Inventory,Monthly Disposable Inventory / Disposables,"Disposables, Paper Hot Cup LOGO 12oz",Product,0.0,case,65.5,case,,case,,,--,case,,case,0.0

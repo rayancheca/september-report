@@ -1,0 +1,295 @@
+Inventory Date,Area,Count List,Description,Type,Par Level Count,Par Level UOM,Cost($),Cost UOM,UOM Count,UOM,Item UOM Count,Item UOM,Need to Order Count,Need to Order UOM,UOM Total,UOM Total UOM,Line Item Cost ($)
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory /Protein, Spianata Calabrese","Protein, Spianata Calabrese",Product,0.0,pound,8.95,pound,,,,,--,pound,,pound,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory /Protein, Spianata Calabrese",5 pound - 2 pound / case,Product-Items,,,,,0.0,case,0.0,pound,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory /Protein, Spianata Calabrese",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory,#263074_XC14749494 - Cooked Ham (Fifth Ave House Vendor),Invoice Item,0.0,ea,7.25,lb,,ea,0.0,lb,--,ea,,lb,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Tomato Paste",Product,0.0,case,10.08,can,,case,5.0,can,--,case,5.0,can,50.4
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Cherry Tomato Sauce","Dry Goods, Cherry Tomato Sauce",Product,0.0,pound,2.38135737370301,pound,,,,,--,pound,202.83,pound,482.9994
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Cherry Tomato Sauce",2 kilogram - 2 count / case,Product-Items,,,,,0.0,case,46.0,count,,,92.0,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Cherry Tomato Sauce",2 kilogram - 1  / pack,Product-Items,,,,,0.0,pack,0.0,,,,,kilogram,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Crushed Tomato",Product,0.0,case,8.19666666666667,can,6.0,case,,can,--,case,18.0,can,147.54
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Olive oil EVOO","Dry Goods, Olive oil EVOO",Product,0.0,liter,8.25537109375,liter,,,,,--,liter,41.64,liter,343.7497
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Olive oil EVOO",1 gallon - 4 bottle / case,Product-Items,,,,,0.0,case,11.0,bottle,,,11.0,gallon,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Olive oil EVOO",1 gallon - 4 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,gallon,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Balsamic Vinegar",Product,0.0,case,18.0,each,,case,4.0,each,--,case,4.0,each,72.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Balsamic Glaze",Product,0.0,case,3.33333333333333,each,4.0,case,4.0,each,--,case,52.0,each,173.3333
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, White Vinegar",Product,0.0,case,6.72666666666667,bottle,,case,9.0,bottle,--,case,9.0,bottle,60.54
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Ground Black Pepper",Product,0.0,case,54.855,pack,,case,1.0,pack,--,case,1.0,pack,54.855
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Black Pepper Whole",Product,0.0,case,52.88,pack,,case,2.0,pack,--,case,2.0,pack,105.76
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Crushed Red Pepper",Product,0.0,case,25.0375,pack,,case,2.0,pack,--,case,2.0,pack,50.075
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Parsley",Product,0.0,case,7.9125,pack,,case,7.0,pack,--,case,7.0,pack,55.3875
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Produce, Oregano",Product,0.0,case,23.75,bag,,case,3.0,bag,--,case,3.0,bag,71.25
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Sesame Black",Product,0.0,case,0.848333333333333,each,,case,1.0,each,--,case,1.0,each,0.8483
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,Delete,Product,0.0,pound,0.0,pound,,pound,,,--,pound,,pound,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Sea Salt Coarse",Product,0.0,case,21.78,case,4.0,case,,,--,case,4.0,case,87.12
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Cocoa Powder",Product,0.0,case,43.43,pound,,case,35.0,pound,--,case,35.0,pound,1520.05
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Coffee Bean",Product,0.0,case,15.9183333333333,bag,2.0,case,,bag,--,case,12.0,bag,191.0199
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Matcha Powder",Product,0.0,case,50.4183333333333,bag,,case,5.0,bag,--,case,5.0,bag,252.0916
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"NA Bev, Monin Vanilla Syrup",Product,0.0,case,3.305,bottle,,case,1.0,bottle,--,case,1.0,bottle,3.305
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Syrup Caramel",Product,0.0,case,14.36,case,1.5,case,,,--,case,1.5,case,21.54
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Syrup Hazelnut Monin",Product,0.0,case,4.2875,bottle,,case,1.5,bottle,--,case,1.5,bottle,6.4312
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Croutons Butter and Garlic",Product,0.0,case,36.68,case,2.0,case,,,--,case,2.0,case,73.36
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Creamy Peanut Butter",Product,0.0,case,11.955,jar,,case,1.0,jar,--,case,1.0,jar,11.955
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Brown Sugar",Product,0.0,each,0.0,each,1.0,each,,,--,each,1.0,each,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Sweetener Splenda",Product,0.0,case,0.0231,each,,case,2.0,each,--,case,2.0,each,0.0462
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, White Sugar Packet",Product,0.0,case,0.009975,each,,case,2.0,each,--,case,2.0,each,0.0199
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Yeast","Dry Goods, Yeast",Product,0.0,pound,4.1,pound,,,,,--,pound,20.0,pound,82.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Yeast",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Yeast",1 pound - 20 pack / case,Product-Items,,,,,1.0,case,0.0,pack,,,20.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Yeast",1 pound - 2 each / pack,Product-Items,,,,,0.0,pack,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Cannoli Small",Product,0.0,case,0.234,count,,case,4.0,count,--,case,4.0,count,0.936
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Cannoli Shell Large","Baked Goods, Cannoli Shell Large",Product,0.0,each,0.6,each,,,,,--,each,500.0,each,300.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Cannoli Shell Large",1 each - 100 each / case,Product-Items,,,,,5.0,case,0.0,each,,,500.0,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Cannoli Shell Large",1 count - 48 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Cannoli Shell Large",1 each - 48 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Cannoli Shell Large",1 each - 48 each / each,Product-Items,,,,,0.0,each,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Ladyfingers",Product,0.0,pound,0.0,pound,22.0,pound,,,--,pound,22.0,pound,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Honey","Dry Goods, Honey",Product,0.0,pound,2.06033333333333,pound,,,,,--,pound,10.0,pound,20.6033
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Honey",5 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Honey",5 pound - 6 jug / case,Product-Items,,,,,0.0,case,2.0,jug,,,10.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Paste Almond 60%","Dry Goods, Paste Almond 60%",Product,0.0,pound,8.88142857142857,pound,,,,,--,pound,7.0,pound,62.1699
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Paste Almond 60%",7 pound - 1  / each,Product-Items,,,,,1.0,each,0.0,,,,7.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Paste Almond 60%",1 pound - 2.5 pack / each,Product-Items,,,,,0.0,each,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Flour Almond Blanched",Product,0.0,each,45.63,each,3.0,each,,,--,each,3.0,each,136.89
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Nutella","Dry Goods, Nutella",Product,0.0,pound,4.46212121212121,pound,,,,,--,pound,33.07,pound,147.5594
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Nutella",3 kilogram - 2 each / case,Product-Items,,,,,0.0,case,5.0,each,,,15.0,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Nutella",6.6 pound - 2 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Nutella",6.6 pound - 2 tub / case,Product-Items,,,,,0.0,case,0.0,tub,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Caramel Filling",Product,0.0,case,77.3925,pack,,case,3.0,pack,--,case,3.0,pack,232.1775
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Vanilla Extract",Product,0.0,case,3.555,count,,case,21.0,count,--,case,21.0,count,74.655
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"NA Bev, Orange Blossom Water",Product,0.0,case,4.44666666666667,count,2.0,case,,count,--,case,24.0,count,106.72
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Granola Oats and Honey",Product,0.0,case,22.2175,pack,1.0,case,,pack,--,case,4.0,pack,88.87
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Graham Cracker Crumb",Product,0.0,case,14.3,bag,1.0,case,,bag,--,case,2.0,bag,28.6
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Original Biscuit Cookie",Product,0.0,case,5.343,pack,1.0,case,,pack,--,case,10.0,pack,53.43
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Sliced Almond","Dry Goods, Sliced Almond",Product,0.0,pound,6.7812,pound,,,,,--,pound,50.0,pound,339.06
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Sliced Almond",25 pound - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,50.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Sliced Almond",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Raspberry Jam",Product,0.0,case,19.5583333333333,each,,case,3.0,each,--,case,3.0,each,58.6749
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Choco Chips",Product,0.0,case,196.81,case,0.8,case,,,--,case,0.8,case,157.448
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Chopped","Dry Goods, Pistachio Chopped",Product,0.0,pound,19.718,pound,,,,,--,pound,5.51,pound,108.6768
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Chopped",5 kilogram - 1  / case,Product-Items,,,,,0.5,case,0.0,,,,2.5,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Chopped",5 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream","Dry Goods, Pistachio Cream",Product,0.0,pound,9.88830299937631,pound,,,,,--,pound,70.55,pound,697.5992
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",1 kilogram - 1  / bag,Product-Items,,,,,0.0,bag,0.0,,,,,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",4 kilogram - 2 each / case,Product-Items,,,,,0.0,case,8.0,each,,,32.0,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",2.2 pound - 3 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",2.2 pound - 4 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",1 kilogram - 5 pound / case,Product-Items,,,,,0.0,case,0.0,pound,,,,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",7 pound - 1  / pack,Product-Items,,,,,0.0,pack,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Pistachio Cream",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Flour Cake",Product,0.0,case,24.42,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Whey Protein Vanilla",Product,0.0,case,42.595,each,3.0,case,1.0,each,--,case,7.0,each,298.165
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Soy Sauce",Product,0.0,case,6.7475,bottle,,case,2.0,bottle,--,case,2.0,bottle,13.495
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Powder Sugar","Dry Goods, Powder Sugar",Product,0.0,pound,0.205,pound,,,,,--,pound,11.0,pound,2.255
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Powder Sugar",50 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Powder Sugar",1 pound - 24 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Dry Goods, Powder Sugar",2.2 pound - 5 each / case,Product-Items,,,,,1.0,case,0.0,each,,,11.0,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Dry Goods, Nutmeg Whole",Product,0.0,each,0.0,each,2.0,each,,,--,each,2.0,each,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Aragostine Limone","Baked Goods, Aragostine Limone",Product,0.0,pound,17.4632874071554,pound,,,,,--,pound,,pound,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Aragostine Limone",1 kilogram - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Dry storage/Baked Goods, Aragostine Limone",1.5 kilogram - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,kilogram,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Aragostine Gianduia",Product,0.0,case,38.5,case,1.0,case,,,--,case,1.0,case,38.5
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Aragostine Pistacchio",Product,0.0,case,20.92,case,1.0,case,,,--,case,1.0,case,20.92
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Amaretti Morbidi",Product,0.0,case,38.5,case,1.0,case,,,--,case,1.0,case,38.5
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Cannoli Limone",Product,0.0,case,34.66,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Cannoli Gianduia",Product,0.0,case,38.5,case,1.0,case,,,--,case,1.0,case,38.5
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Cannoli Pistacchio",Product,0.0,each,38.5,each,1.0,each,,,--,each,1.0,each,38.5
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Bocconcini Limone",Product,0.0,case,38.5,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Bocconcini Cacao",Product,0.0,case,38.5,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Baked Goods, Bocconcini Pistacchio",Product,0.0,case,38.5,case,0.5,case,,,--,case,0.5,case,19.25
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Protein, Meatball Pork & Beef Cooked 2oz",Product,0.0,case,23.34,pack,3.5,case,,pack,--,case,7.0,pack,163.38
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Dry storage,"Protein, Chicken Breast Breaded Cooked",Product,0.0,case,1.34225,each,1.0,case,,each,--,case,40.0,each,53.69
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Bomboloni Plain",Product,0.0,case,1.21083333333333,each,7.0,case,,each,--,case,168.0,each,203.4199
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Glazed Plain Cornetto","Baked Goods, Glazed Plain Cornetto",Product,0.0,each,4.946,each,,,,,--,each,70.0,each,346.22
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Glazed Plain Cornetto",10 each - 1  / case,Product-Items,,,,,7.0,case,0.0,,,,70.0,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Glazed Plain Cornetto",1 each - 14 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Glazed Plain Cornetto",1 each - 14 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,each,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Bindi Cookies Esse Mignon",Product,0.0,case,35.56,case,4.0,case,,,--,case,4.0,case,142.24
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Sabbiosino","Baked Goods, Sabbiosino",Product,0.0,each,0.3556,each,,,,,--,each,200.0,each,71.12
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Sabbiosino",1 each - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Sabbiosino",100 each - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,200.0,each,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Brioche Bun 3.5""",Product,0.0,case,0.751666666666666,each,2.0,case,,each,--,case,144.0,each,108.2399
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Sliced MultiGrain Bread",Product,0.0,case,13.2066666666667,pack,,case,2.0,pack,--,case,2.0,pack,26.4133
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Protein, Seafood Salmon Chum",Product,0.0,case,78.0,case,2.0,case,,,--,case,2.0,case,156.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Protein, Bacon Shingle",Product,0.0,case,4.656,pound,6.0,case,,pound,--,case,90.0,pound,419.04
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Protein, Breast Chicken","Protein, Breast Chicken",Product,0.0,pound,5.3,pound,,,,,--,pound,80.0,pound,424.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Protein, Breast Chicken",1 pound - 10 pound / case,Product-Items,,,,,8.0,case,0.0,pound,,,80.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Protein, Breast Chicken",5 pound - 2 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Protein, Breast Chicken",6.5 pound - 1  / each,Product-Items,,,,,0.0,each,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Produce, Edamame",Product,0.0,case,59.45,case,2.0,case,,,--,case,2.0,case,118.9
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Dry Goods, Lasagna Pasta Sheets","Dry Goods, Lasagna Pasta Sheets",Product,0.0,each,3.032,each,,,,,--,each,50.0,each,151.6
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Dry Goods, Lasagna Pasta Sheets",1 each - 10 pack / case,Product-Items,,,,,5.0,case,0.0,pack,,,50.0,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Dry Goods, Lasagna Pasta Sheets",1 each - 12 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,each,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Sandwich Crust",Product,0.0,case,44.0,case,5.0,case,,,--,case,5.0,case,220.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Pre-baked Crust Pizza",Product,0.0,case,44.0,case,6.0,case,,,--,case,6.0,case,264.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, GF Pizza Crust","Baked Goods, GF Pizza Crust",Product,0.0,kilogram,21.0740740740741,kilogram,,,,,--,kilogram,6.75,kilogram,142.25
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, GF Pizza Crust",270 gram - 10 each / case,Product-Items,,,,,2.5,case,0.0,each,,,6750.0,gram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, GF Pizza Crust",1 kilogram - 16 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,kilogram,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Dairy, Pastry Cream",Product,0.0,case,63.95,case,,case,,,--,case,,case,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Cannoli Shell Large","Baked Goods, Cannoli Shell Large",Product,0.0,each,0.6,each,,,,,--,each,,each,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Cannoli Shell Large",1 each - 100 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Cannoli Shell Large",1 count - 48 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Cannoli Shell Large",1 each - 48 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Freezer/Baked Goods, Cannoli Shell Large",1 each - 48 each / each,Product-Items,,,,,0.0,each,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Freezer,"Baked Goods, Cannoli Small",Product,0.0,case,0.234,count,,case,,count,--,case,,count,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Strawberry Tray,Prep Recipe,0.0,slice,1.1251813017263834,slice,,slice,0.0,,--,slice,,slice,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Cream,Prep Recipe,0.0,gram,0.00822057712153284,gram,,gram,0.0,,--,gram,,gram,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Sauce Tartufo,Prep Recipe,0.0,kg,14.442856178684771,kg,10.0,kg,0.0,,--,kg,10.0,kg,144.4285
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Sauce Carbonara,Prep Recipe,0.0,gram,0.00262283568181818,gram,,gram,0.0,,--,gram,,gram,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Fresh Pasta Dough,Prep Recipe,0.0,gram,0.00147573279489536,gram,,gram,0.0,,--,gram,,gram,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Sauce Bechamel,Prep Recipe,0.0,gram,0.00212974551329315,gram,,gram,0.0,,--,gram,,gram,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Sauce Bolognese,Prep Recipe,0.0,kg,7.222062755329593,kg,50.0,kg,0.0,,--,kg,50.0,kg,361.1031
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Fresh Pasta Rigatoni,Prep Recipe,0.0,kilogram,1.47573279489537,kilogram,22.0,kilogram,0.0,,--,kilogram,22.0,kilogram,32.4661
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Fresh Pasta Spaghetti,Prep Recipe,0.0,each,0.25825323910668935,each,19.0,each,0.0,,--,each,19.0,each,4.9068
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Pizza Dough,Prep Recipe,0.0,each,0.2078688207985464,each,40.0,each,0.0,,--,each,40.0,each,8.3147
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Base Crostata,Prep Recipe,0.0,each,0.3270759038461538,each,2.0,each,0.0,,--,each,2.0,each,0.6541
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Cannoli Cream,Prep Recipe,0.0,kg,5.654830378894152,kg,12.0,kg,0.0,,--,kg,12.0,kg,67.8579
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Lasagna Tray,Prep Recipe,0.0,slice,1.1692574954087778,slice,45.0,slice,0.0,,--,slice,45.0,slice,52.6165
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Limoncello Tray,Prep Recipe,0.0,slice,0.8934590221380333,slice,,slice,0.0,,--,slice,,slice,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Coffee Tray,Prep Recipe,0.0,slice,0.903047114665575,slice,36.0,slice,0.0,,--,slice,36.0,slice,32.5096
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Nutella Tray,Prep Recipe,0.0,slice,1.0217301254558833,slice,36.0,slice,0.0,,--,slice,36.0,slice,36.7822
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Pistachio Tray,Prep Recipe,0.0,slice,1.1427399546418833,slice,36.0,slice,0.0,,--,slice,36.0,slice,41.1386
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Preparation kitchen,PREP - Tiramisu Caramel Tray,Prep Recipe,0.0,slice,0.9170103804654166,slice,,slice,0.0,,--,slice,,slice,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Basil","Produce, Fresh Basil",Product,0.0,pound,8.18181818181818,pound,,,,,--,pound,8.0,pound,65.4545
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Basil",1 pound - 2 bag / case,Product-Items,,,,,4.0,case,0.0,bag,,,8.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Basil",1 pound - 2.2 bag / case,Product-Items,,,,,0.0,case,0.0,bag,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Basil",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Mint","Produce, Mint",Product,0.0,pound,7.5,pound,,,,,--,pound,5.0,pound,37.5
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Mint",2.5 pound - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,5.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Mint",1 pound - 2.2 pound / case,Product-Items,,,,,0.0,case,0.0,pound,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Mint",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lettuce Romaine","Produce, Lettuce Romaine",Product,0.0,each,1.25,each,,,,,--,each,48.0,each,60.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lettuce Romaine",24 count - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,48.0,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lettuce Romaine",3 count - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lettuce Romaine",48 count - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lettuce Romaine",3 count - 12 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula","Produce, Baby Arugula",Product,0.0,pound,4.205,pound,,,,,--,pound,27.0,pound,113.535
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula",3 pound - 1  / case,Product-Items,,,,,9.0,case,0.0,,,,27.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula",4 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula",1.5 pound - 2 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula",2 pound - 2 bag / case,Product-Items,,,,,0.0,case,0.0,bag,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Baby Arugula",2.2 pound - 2 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cabbage Red","Produce, Cabbage Red",Product,0.0,pound,1.86666666666667,pound,,,,,--,pound,50.0,pound,93.3333
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cabbage Red",5 pound - 10 each / case,Product-Items,,,,,1.0,case,0.0,each,,,50.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cabbage Red",1 pound - 15 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Green Kale","Produce, Green Kale",Product,0.0,each,1.16666666666667,each,,,,,--,each,30.0,each,35.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Green Kale",1 each - 20 each / case,Product-Items,,,,,1.5,case,0.0,each,,,30.0,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Green Kale",1 each - 24 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,each,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Eggplant","Produce, Eggplant",Product,0.0,pound,2.44444444444444,pound,,,,,--,pound,18.0,pound,43.9999
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Eggplant",18 pound - 1  / case,Product-Items,,,,,1.0,case,0.0,,,,18.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Eggplant",25 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Eggplant",50 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Yellow Pepper","Produce, Yellow Pepper",Product,0.0,pound,3.81818181818182,pound,,,,,--,pound,11.0,pound,42.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Yellow Pepper",11 pound - 1  / case,Product-Items,,,,,1.0,case,0.0,,,,11.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Yellow Pepper",25 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Carrot",Product,0.0,case,0.8,pound,1.0,case,,pound,--,case,50.0,pound,40.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Medium Red Onion",Product,0.0,case,1.36,pound,1.5,case,,pound,--,case,37.5,pound,51.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Celery","Produce, Celery",Product,0.0,pound,1.13333333333333,pound,,,,,--,pound,60.0,pound,67.9999
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Celery",2 pound - 3 head / case,Product-Items,,,,,0.0,case,0.0,head,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Celery",2 pound - 30 head / case,Product-Items,,,,,1.0,case,0.0,head,,,60.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Strawberry","Produce, Strawberry",Product,0.0,pound,4.125,pound,,,,,--,pound,32.0,pound,132.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Strawberry",1 pound - 8 each / case,Product-Items,,,,,4.0,case,0.0,each,,,32.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Strawberry",12 ounce - 8 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Blueberry","Produce, Blueberry",Product,0.0,pound,11.7777777777778,pound,,,,,--,pound,1.12,pound,13.25
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Blueberry",6 ounce - 12 each / case,Product-Items,,,,,0.0,case,3.0,each,,,18.0,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Blueberry",6 ounce - 12 pint / case,Product-Items,,,,,0.0,case,0.0,pint,,,,ounce,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Kiwi",Product,0.0,case,1.04166666666667,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Seedless Watermelon",Product,0.0,case,14.0,each,,case,3.0,each,--,case,3.0,each,42.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Green Apple",Product,0.0,case,0.5,each,3.5,case,,each,--,case,350.0,each,175.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Orange Juice",Product,0.0,each,0.0,each,10.0,each,,,--,each,10.0,each,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Delmonte Pineapple",Product,0.0,case,5.0,each,,case,3.0,each,--,case,3.0,each,15.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Banana","Produce, Banana",Product,0.0,pound,1.4,pound,,,,,--,pound,40.0,pound,56.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Banana",1 pound - 40 each / case,Product-Items,,,,,1.0,case,0.0,each,,,40.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Banana",1 pound - 5 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lemon Yellow","Produce, Lemon Yellow",Product,0.0,each,0.332916666666667,each,,,,,--,each,,each,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lemon Yellow",140 count - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Lemon Yellow",1 count - 24 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,count,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Mushroom White",Product,0.0,case,28.0,case,1.0,case,,,--,case,1.0,case,28.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Garlic","Produce, Garlic",Product,0.0,pound,1.2,pound,,,,,--,pound,7.5,pound,9.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Garlic",5 pound - 1  / case,Product-Items,,,,,1.5,case,0.0,,,,7.5,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Garlic",5 pound - 4 each / each,Product-Items,,,,,0.0,each,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Ginger","Produce, Fresh Ginger",Product,0.0,pound,1.53333333333333,pound,,,,,--,pound,30.0,pound,45.9999
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Ginger",30 pound - 1  / case,Product-Items,,,,,1.0,case,0.0,,,,30.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Fresh Ginger",5 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Radish Red",Product,0.0,case,0.966666666666667,pack,0.8,case,,pack,--,case,24.0,pack,23.2
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Tomato 5x6",Product,0.0,case,99.0,case,1.0,case,,,--,case,1.0,case,99.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Avocado","Produce, Avocado",Product,0.0,each,1.29166666666667,each,,,,,--,each,96.0,each,124.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Avocado",12 count - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Avocado",48 count - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,96.0,count,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Avocado",60 count - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,count,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Quinoa Tri Color",Product,0.0,case,7.06166666666667,pack,,case,9.0,pack,--,case,9.0,pack,63.555
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cherry Tomato","Produce, Cherry Tomato",Product,0.0,liter,5.45955208333333,liter,,,,,--,liter,34.07,liter,185.9998
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cherry Tomato",1 pint - 12 pint / case,Product-Items,,,,,6.0,case,0.0,pint,,,72.0,pint,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Produce, Cherry Tomato",3 pint - 6 pint / case,Product-Items,,,,,0.0,case,0.0,pint,,,,pint,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shredded Mozzarella Cheese","Dairy, Shredded Mozzarella Cheese",Product,0.0,pound,3.2,pound,,,,,--,pound,90.0,pound,288.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shredded Mozzarella Cheese",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shredded Mozzarella Cheese",5 pound - 6 each / case,Product-Items,,,,,0.0,case,18.0,each,,,90.0,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Produce, Plant Based Shredded Mozzarella",Product,0.0,case,12.625,bag,,case,5.0,bag,--,case,5.0,bag,63.125
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shaved Parmesan Cheese","Dairy, Shaved Parmesan Cheese",Product,0.0,pound,4.7,pound,,,,,--,pound,160.0,pound,752.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shaved Parmesan Cheese",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shaved Parmesan Cheese",20 pound - 1  / case,Product-Items,,,,,8.0,case,0.0,,,,160.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Shaved Parmesan Cheese",5 pound - 4 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese","Dairy, Grated Parmesan Cheese",Product,0.0,pound,5.1,pound,,,,,--,pound,75.0,pound,382.5
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese",5 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese",5 pound - 4 each / case,Product-Items,,,,,2.0,case,7.0,each,,,75.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese",1 pound - 1  / pack,Product-Items,,,,,0.0,pack,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Grated Parmesan Cheese",2 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Provolone Cheese","Dairy, Provolone Cheese",Product,0.0,pound,7.4,pound,,,,,--,pound,2.5,pound,18.5
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Provolone Cheese",1 pound - 1  / case,Product-Items,,,,,2.5,case,0.0,,,,2.5,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Provolone Cheese",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Sliced Mozzarella Cheese","Dairy, Sliced Mozzarella Cheese",Product,0.0,pound,5.4,pound,,,,,--,pound,19.0,pound,102.6
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Sliced Mozzarella Cheese",1 pound - 8 bag / case,Product-Items,,,,,0.0,case,19.0,bag,,,19.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Sliced Mozzarella Cheese",1 pound - 8 count / case,Product-Items,,,,,0.0,case,0.0,count,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Sliced Mozzarella Cheese",1 pound - 8 pack / case,Product-Items,,,,,0.0,case,0.0,pack,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Sliced Mozzarella Cheese",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Mozzarella Cheese Balls",Product,0.0,case,13.2,each,,case,14.0,each,--,case,14.0,each,184.8
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Stracciatella Cheese",Product,0.0,case,39.0,each,,case,5.0,each,--,case,5.0,each,195.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"NA Bev, Lemon Juice",Product,0.0,case,1.96166666666667,bottle,,case,12.0,bottle,--,case,12.0,bottle,23.54
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Egg Yolk Liquid",Product,0.0,case,7.98666666666667,pack,,case,11.0,pack,--,case,11.0,pack,87.8533
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Heavy Cream 40%",Product,0.0,case,6.50416666666667,each,,case,15.0,each,--,case,15.0,each,97.5625
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Unsalted Butter","Dairy, Unsalted Butter",Product,0.0,pound,4.4,pound,,,,,--,pound,3.0,pound,13.2
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Unsalted Butter",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Unsalted Butter",1 pound - 36 each / case,Product-Items,,,,,0.0,case,3.0,each,,,3.0,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Pesto Genovese with Basil",Product,0.0,case,78.0,case,2.5,case,,,--,case,2.5,case,195.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Mascarpone Cheese","Dairy, Mascarpone Cheese",Product,0.0,pound,5.5,pound,,,,,--,pound,127.0,pound,698.5
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Mascarpone Cheese",1 pound - 6 each / case,Product-Items,,,,,7.0,case,0.0,each,,,42.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Mascarpone Cheese",17.5 ounce - 8 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Mascarpone Cheese",5 pound - 1  / each,Product-Items,,,,,17.0,each,0.0,,,,85.0,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Ricotta Cheese",Product,0.0,case,12.0,each,,case,9.0,each,--,case,9.0,each,108.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Prosciutto Crudo Mattonella",Product,0.0,pound,9.85,pound,24.0,pound,,,--,pound,24.0,pound,236.4
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Prosciutto Cotto (replaced (cooked ham))",Product,0.0,pound,0.0,pound,36.0,pound,,,--,pound,36.0,pound,0.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Spianata Calabrese","Protein, Spianata Calabrese",Product,0.0,pound,8.95,pound,,,,,--,pound,50.0,pound,447.5
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Spianata Calabrese",5 pound - 2 pound / case,Product-Items,,,,,5.0,case,0.0,pound,,,50.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Spianata Calabrese",1 pound - 1  / pound,Product-Items,,,,,0.0,pound,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Mortadella With Pistacchio",Product,0.0,pound,5.45,pound,20.0,pound,,,--,pound,20.0,pound,109.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Turkey Breast",Product,0.0,pound,5.55,pound,20.0,pound,,,--,pound,20.0,pound,111.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Caesar Salad Dressing",Product,0.0,gallon,25.08,gallon,3.0,gallon,,,--,gallon,3.0,gallon,75.24
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Strawberry Topping",Product,0.0,case,20.175,pack,,case,1.0,pack,--,case,1.0,pack,20.175
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Plain Yogurt","Dairy, Plain Yogurt",Product,0.0,pound,3.31,pound,,,,,--,pound,16.0,pound,52.96
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Plain Yogurt",32 ounce - 5 pack / case,Product-Items,,,,,0.0,case,8.0,pack,,,256.0,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Plain Yogurt",32 ounce - 5 tub / case,Product-Items,,,,,0.0,case,0.0,tub,,,,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Plain Yogurt",32 ounce - 6 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Plain Yogurt",32 ounce - 6 tub / case,Product-Items,,,,,0.0,case,0.0,tub,,,,ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Almond Milk","Dairy, Almond Milk",Product,0.0,liter,2.55366145833333,liter,,,,,--,liter,16.09,liter,41.0833
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Almond Milk",32 fluid ounce - 6 count / case,Product-Items,,,,,0.0,case,17.0,count,,,544.0,fluid ounce,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Almond Milk",64 fluid ounce - 6 each / case,Product-Items,,,,,0.0,case,0.0,each,,,,fluid ounce,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Oat Milk",Product,0.0,case,3.0,pack,,case,20.0,pack,--,case,20.0,pack,60.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Whole Milk","Dairy, Whole Milk",Product,0.0,gallon,4.9,gallon,,,,,--,gallon,14.0,gallon,68.6
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Whole Milk",1 gallon - 4 each / case,Product-Items,,,,,0.0,case,14.0,each,,,14.0,gallon,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dairy, Whole Milk",1 gallon - 1  / gallon,Product-Items,,,,,0.0,gallon,0.0,,,,,gallon,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Protein, Egg Shells",Product,0.0,case,2.26666666666667,box,1.5,case,,box,--,case,45.0,box,102.0
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Ground Beef","Protein, Ground Beef",Product,0.0,pound,5.342,pound,,,,,--,pound,20.0,pound,106.84
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Ground Beef",1 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Ground Beef",10 pound - 1  / case,Product-Items,,,,,2.0,case,0.0,,,,20.0,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Protein, Ground Beef",5 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dry Goods, Pizza Flour","Dry Goods, Pizza Flour",Product,0.0,pound,0.560639564551794,pound,,,,,--,pound,275.58,pound,154.4998
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dry Goods, Pizza Flour",25 kilogram - 1  / case,Product-Items,,,,,5.0,case,0.0,,,,125.0,kilogram,
+09/30/2026,Monthly Food Inventory,"Monthly Food Inventory  / Walk-in Cooler/Dry Goods, Pizza Flour",55 pound - 1  / case,Product-Items,,,,,0.0,case,0.0,,,,,pound,
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Caputo Flour",Product,0.0,case,53.71,case,5.0,case,,,--,case,5.0,case,268.55
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Semolina Flour",Product,0.0,case,49.0,case,6.0,case,,,--,case,6.0,case,294.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Flour Cake",Product,0.0,case,24.42,case,1.0,case,,,--,case,1.0,case,24.42
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,#21004 02 - Prosciutto Crudo Mattonella (SOGNO TOSCANO),Invoice Item,0.0,lb,9.95,lb,,lb,0.0,,--,lb,,lb,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,#981660 - MORTADELLA W|PISTACHIO (ACE ENDICO),Invoice Item,0.0,lb,5.45,lb,,lb,0.0,,--,lb,,lb,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dry Goods, Panna Cotta Mix",Product,0.0,case,0.00125,each,,case,,each,--,case,,each,0.0
+09/30/2026,Monthly Food Inventory,Monthly Food Inventory  / Walk-in Cooler,"Dairy, Burrata 2oz",Product,0.0,case,1.5,each,8.0,case,2.0,each,--,case,194.0,each,291.0
